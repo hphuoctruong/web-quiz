@@ -1,0 +1,602 @@
+[
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "Economics is best defined as the study of how individuals and societies choose to use what kind of resources?",
+      "choices": [
+        "Unlimited resources",
+        "Scarce resources",
+        "Financial resources only",
+        "Natural resources only"
+      ],
+      "solution": "Scarce resources"
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which of the following is NOT one of the three fundamental concepts of economics mentioned in the chapter?",
+      "choices": [
+        "Opportunity cost",
+        "Marginalism",
+        "Efficient markets",
+        "Unlimited wealth"
+      ],
+      "solution": "Unlimited wealth"
+    },
+    {
+      "id": 3,
+      "difficulty": "Medium",
+      "question": "The concept of 'opportunity cost' is best described as:",
+      "choices": [
+        "The exact price you pay for a good or service",
+        "The best alternative that we forgo when we make a choice",
+        "The time it takes to make a decision",
+        "The additional cost of producing one more unit"
+      ],
+      "solution": "The best alternative that we forgo when we make a choice"
+    },
+    {
+      "id": 4,
+      "difficulty": "Medium",
+      "question": "Case Study: In the study regarding rainfall in India, what happens to the opportunity cost of sending children to school when rainfall is plentiful?",
+      "choices": [
+        "It decreases because school fees are lower",
+        "It increases because the children are needed for high-yield farming",
+        "It remains unchanged",
+        "It becomes zero because the harvest is guaranteed"
+      ],
+      "solution": "It increases because the children are needed for high-yield farming"
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Marginalism involves analyzing which types of costs or benefits?",
+      "choices": [
+        "Total costs and benefits",
+        "Average costs and benefits",
+        "Additional or incremental costs and benefits",
+        "Sunk costs"
+      ],
+      "solution": "Additional or incremental costs and benefits"
+    },
+    {
+      "id": 6,
+      "difficulty": "Hard",
+      "question": "Scenario: An airline flies a plane with empty seats. The average cost per seat is $500, but the marginal cost of adding one more passenger is only $50. If they sell a last-minute ticket for $100, is it profitable?",
+      "choices": [
+        "No, because $100 is less than the average cost of $500",
+        "Yes, because the marginal benefit ($100) exceeds the marginal cost ($50)",
+        "No, because it lowers the brand value",
+        "Yes, but only if the plane is fully booked"
+      ],
+      "solution": "Yes, because the marginal benefit ($100) exceeds the marginal cost ($50)"
+    },
+    {
+      "id": 7,
+      "difficulty": "Easy",
+      "question": "An efficient market is defined as a market in which:",
+      "choices": [
+        "Prices never change",
+        "Profit opportunities are eliminated almost instantaneously",
+        "Everyone makes a profit",
+        "Government regulation is nonexistent"
+      ],
+      "solution": "Profit opportunities are eliminated almost instantaneously"
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "The phrase 'There is no such thing as a free lunch' illustrates which economic concept?",
+      "choices": [
+        "Inflation",
+        "Efficient markets",
+        "Normative economics",
+        "The Industrial Revolution"
+      ],
+      "solution": "Efficient markets"
+    },
+    {
+      "id": 9,
+      "difficulty": "Easy",
+      "question": "The Industrial Revolution in England (late 18th/early 19th century) resulted in a massive population shift from:",
+      "choices": [
+        "Cities to the countryside",
+        "The countryside to the cities",
+        "England to the United States",
+        "Manufacturing to agriculture"
+      ],
+      "solution": "The countryside to the cities"
+    },
+    {
+      "id": 10,
+      "difficulty": "Easy",
+      "question": "Which branch of economics deals with the behavior of individual decision-making units like firms and households?",
+      "choices": [
+        "Macroeconomics",
+        "Microeconomics",
+        "Econometrics",
+        "Positive economics"
+      ],
+      "solution": "Microeconomics"
+    },
+    {
+      "id": 11,
+      "difficulty": "Easy",
+      "question": "Which branch of economics examines the economy as a whole, including national income and the overall price level?",
+      "choices": [
+        "Macroeconomics",
+        "Microeconomics",
+        "Labor economics",
+        "Urban economics"
+      ],
+      "solution": "Macroeconomics"
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Which of the following is a Microeconomic question?",
+      "choices": [
+        "What determines the overall rate of inflation?",
+        "Why has employment in the steel industry declined?",
+        "What is the total national output?",
+        "How does the national unemployment rate change?"
+      ],
+      "solution": "Why has employment in the steel industry declined?"
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Which of the following is a Macroeconomic question?",
+      "choices": [
+        "How many workers should Ford hire this year?",
+        "What price should Apple charge for the new iPhone?",
+        "What factors determine the nation's economic growth rate?",
+        "How does a specific family decide how much to save?"
+      ],
+      "solution": "What factors determine the nation's economic growth rate?"
+    },
+    {
+      "id": 14,
+      "difficulty": "Medium",
+      "question": "Case Study: The 'How Italian is a Ferrari?' box illustrates that:",
+      "choices": [
+        "Ferrari cars are 100% manufactured in Italy",
+        "Global trade creates products with components from many different nations",
+        "Outsourcing is illegal in the European Union",
+        " 'Made in Italy' labels are strictly for products with no foreign parts"
+      ],
+      "solution": "Global trade creates products with components from many different nations"
+    },
+    {
+      "id": 15,
+      "difficulty": "Easy",
+      "question": "Positive economics attempts to:",
+      "choices": [
+        "Judge whether economic outcomes are good or bad",
+        "Prescribe solutions to economic problems",
+        "Understand behavior and systems without making judgments",
+        "Ensure wealth is distributed equally"
+      ],
+      "solution": "Understand behavior and systems without making judgments"
+    },
+    {
+      "id": 16,
+      "difficulty": "Easy",
+      "question": "Normative economics is also known as:",
+      "choices": [
+        "Policy economics",
+        "Behavioral economics",
+        "Positive economics",
+        "Empirical economics"
+      ],
+      "solution": "Policy economics"
+    },
+    {
+      "id": 17,
+      "difficulty": "Medium",
+      "question": "Which statement is an example of Positive Economics?",
+      "choices": [
+        "The government should increase the minimum wage.",
+        "Taxes on the wealthy are too high.",
+        "Higher interest rates reduce the demand for housing.",
+        "We ought to provide free healthcare for everyone."
+      ],
+      "solution": "Higher interest rates reduce the demand for housing."
+    },
+    {
+      "id": 18,
+      "difficulty": "Medium",
+      "question": "Which statement is an example of Normative Economics?",
+      "choices": [
+        "If the price of gas rises, people drive less.",
+        "The unemployment rate is 4.5%.",
+        "The government should ban smoking in public parks.",
+        "GDP grew by 2% last year."
+      ],
+      "solution": "The government should ban smoking in public parks."
+    },
+    {
+      "id": 19,
+      "difficulty": "Easy",
+      "question": "A formal statement of a theory, usually a mathematical statement of a relationship between variables, is called a:",
+      "choices": [
+        "Variable",
+        "Model",
+        "Hypothesis",
+        "Correlation"
+      ],
+      "solution": "Model"
+    },
+    {
+      "id": 20,
+      "difficulty": "Easy",
+      "question": "What is Ockham's razor?",
+      "choices": [
+        "The principle that irrelevant detail should be cut away from a model",
+        "A tool used to measure inflation",
+        "The idea that markets are always efficient",
+        "A method for calculating opportunity cost"
+      ],
+      "solution": "The principle that irrelevant detail should be cut away from a model"
+    },
+    {
+      "id": 21,
+      "difficulty": "Medium",
+      "question": "The device 'ceteris paribus' is used by economists to:",
+      "choices": [
+        "Analyze all variables changing at once",
+        "Isolate the impact of one single factor by holding others constant",
+        "Calculate the total GDP",
+        "Prove that correlation implies causation"
+      ],
+      "solution": "Isolate the impact of one single factor by holding others constant"
+    },
+    {
+      "id": 22,
+      "difficulty": "Hard",
+      "question": "The fallacy 'post hoc, ergo propter hoc' refers to the error of assuming that:",
+      "choices": [
+        "Because A happened before B, A caused B",
+        "Correlation is the same as causation",
+        "Models are perfect representations of reality",
+        "What is true for the part is true for the whole"
+      ],
+      "solution": "Because A happened before B, A caused B"
+    },
+    {
+      "id": 23,
+      "difficulty": "Medium",
+      "question": "Case Study: In the discussion of part-time jobs and academic performance, what is the 'causality conundrum'?",
+      "choices": [
+        "Whether jobs pay enough to cover tuition",
+        "Whether the job causes poor grades, or students with lower academic predisposition choose jobs",
+        "Whether students should work more than 20 hours",
+        "Whether universities should ban part-time work"
+      ],
+      "solution": "Whether the job causes poor grades, or students with lower academic predisposition choose jobs"
+    },
+    {
+      "id": 24,
+      "difficulty": "Easy",
+      "question": "Empirical economics involves:",
+      "choices": [
+        "Using only logic without data",
+        "The collection and use of data to test economic theories",
+        "Creating abstract models without real-world application",
+        "Studying the history of economic thought exclusively"
+      ],
+      "solution": "The collection and use of data to test economic theories"
+    },
+    {
+      "id": 25,
+      "difficulty": "Easy",
+      "question": "Which of the following is NOT one of the four criteria frequently applied in judging economic outcomes?",
+      "choices": [
+        "Efficiency",
+        "Equity",
+        "Profitability",
+        "Stability"
+      ],
+      "solution": "Profitability"
+    },
+    {
+      "id": 26,
+      "difficulty": "Medium",
+      "question": "In economics, 'allocative efficiency' means:",
+      "choices": [
+        "Producing what people want at the least possible cost",
+        "Producing goods using the most expensive resources",
+        "Ensuring everyone gets an equal share of the output",
+        "Maximizing the tax revenue for the government"
+      ],
+      "solution": "Producing what people want at the least possible cost"
+    },
+    {
+      "id": 27,
+      "difficulty": "Easy",
+      "question": "Equity in economics refers to:",
+      "choices": [
+        "The speed of production",
+        "Fairness",
+        "Total output",
+        "Price stability"
+      ],
+      "solution": "Fairness"
+    },
+    {
+      "id": 28,
+      "difficulty": "Medium",
+      "question": "Economic growth is defined as:",
+      "choices": [
+        "An increase in the total output of an economy",
+        "An increase in the population",
+        "A decrease in unemployment",
+        "An equal distribution of wealth"
+      ],
+      "solution": "An increase in the total output of an economy"
+    },
+    {
+      "id": 29,
+      "difficulty": "Easy",
+      "question": "Stability involves which of the following conditions?",
+      "choices": [
+        "High inflation and low growth",
+        "Steady growth, low inflation, and full employment",
+        "Rapidly fluctuating prices",
+        "High unemployment"
+      ],
+      "solution": "Steady growth, low inflation, and full employment"
+    },
+    {
+      "id": 30,
+      "difficulty": "Medium",
+      "question": "Why might a policy that promotes efficiency be criticized on the grounds of equity?",
+      "choices": [
+        "Because it reduces the total output",
+        "Because it might result in an unfair distribution of income",
+        "Because it increases inflation",
+        "Because it slows down technological progress"
+      ],
+      "solution": "Because it might result in an unfair distribution of income"
+    },
+    {
+      "id": 31,
+      "difficulty": "Hard",
+      "question": "Case Study: Research by Lisa Kahn suggests that majoring in economics:",
+      "choices": [
+        "Guarantees a job in the government",
+        "Makes graduates less vulnerable to the negative effects of graduating in a recession",
+        "Leads to lower lifetime earnings compared to sociology",
+        "Is only useful if you want to be a professor"
+      ],
+      "solution": "Makes graduates less vulnerable to the negative effects of graduating in a recession"
+    },
+    {
+      "id": 32,
+      "difficulty": "Hard",
+      "question": "If you are analyzing how a tax on carbon affects emissions, which field of economics are you primarily working in?",
+      "choices": [
+        "Labor economics",
+        "Environmental economics",
+        "Urban economics",
+        "Economic history"
+      ],
+      "solution": "Environmental economics"
+    },
+    {
+      "id": 33,
+      "difficulty": "Medium",
+      "question": "Which field of economics studies the benefits and costs of free trade?",
+      "choices": [
+        "International economics",
+        "Industrial organization",
+        "Public economics",
+        "Law and economics"
+      ],
+      "solution": "International economics"
+    },
+    {
+      "id": 34,
+      "difficulty": "Easy",
+      "question": "A variable is defined as:",
+      "choices": [
+        "A constant that never changes",
+        "A measure that can change from time to time or observation to observation",
+        "A verified economic theory",
+        "A type of tax"
+      ],
+      "solution": "A measure that can change from time to time or observation to observation"
+    },
+    {
+      "id": 35,
+      "difficulty": "Medium",
+      "question": "Using the 'ceteris paribus' assumption, if the price of gasoline rises, we expect the quantity of driving to decrease, assuming:",
+      "choices": [
+        "Income also increases significantly",
+        "Public transport shuts down",
+        "All else remains equal (e.g., income, population)",
+        "Cars become more fuel-efficient immediately"
+      ],
+      "solution": "All else remains equal (e.g., income, population)"
+    },
+    {
+      "id": 36,
+      "difficulty": "Hard",
+      "question": "Why is separating causality from correlation difficult when analyzing a soda tax?",
+      "choices": [
+        "Because we cannot measure soda sales",
+        "Because the city that implements the tax might already be more health-conscious",
+        "Because soda is an inelastic good",
+        "Because taxes never affect consumption"
+      ],
+      "solution": "Because the city that implements the tax might already be more health-conscious"
+    },
+    {
+      "id": 37,
+      "difficulty": "Medium",
+      "question": "Which concept explains why lines at a grocery store checkout tend to be of equal length?",
+      "choices": [
+        "Opportunity Cost",
+        "Efficient Markets",
+        "Comparative Advantage",
+        "Equity"
+      ],
+      "solution": "Efficient Markets"
+    },
+    {
+      "id": 38,
+      "difficulty": "Medium",
+      "question": "If you decide to study for an exam instead of going to a party, the opportunity cost is:",
+      "choices": [
+        "The price of the textbook",
+        "The enjoyment you would have received at the party",
+        "The grade you get on the exam",
+        "Zero, because studying is free"
+      ],
+      "solution": "The enjoyment you would have received at the party"
+    },
+    {
+      "id": 39,
+      "difficulty": "Easy",
+      "question": "A graph that illustrates how a variable changes over time is called a:",
+      "choices": [
+        "Bar chart",
+        "Time series graph",
+        "Pie chart",
+        "Scatter plot"
+      ],
+      "solution": "Time series graph"
+    },
+    {
+      "id": 40,
+      "difficulty": "Hard",
+      "question": "In a graph, if an increase in variable X is associated with a decrease in variable Y, the relationship is:",
+      "choices": [
+        "Positive",
+        "Negative",
+        "Constant",
+        "Infinite"
+      ],
+      "solution": "Negative"
+    },
+    {
+      "id": 41,
+      "difficulty": "Medium",
+      "question": "The slope of a line is calculated as:",
+      "choices": [
+        "The change in X divided by the change in Y",
+        "The change in Y divided by the change in X (Rise over Run)",
+        "Y multiplied by X",
+        "X minus Y"
+      ],
+      "solution": "The change in Y divided by the change in X (Rise over Run)"
+    },
+    {
+      "id": 42,
+      "difficulty": "Easy",
+      "question": "The point where the horizontal and vertical axes intersect on a graph is called the:",
+      "choices": [
+        "Slope",
+        "Intercept",
+        "Origin",
+        "Variable"
+      ],
+      "solution": "Origin"
+    },
+    {
+      "id": 43,
+      "difficulty": "Medium",
+      "question": "According to the text, what happened to agriculture in Great Britain between 1700 and 1900?",
+      "choices": [
+        "It employed more people in 1900 than in 1700",
+        "The workforce shifted from 2 out of 3 people in agriculture to fewer than 1 in 10",
+        "It completely disappeared",
+        "It became less productive"
+      ],
+      "solution": "The workforce shifted from 2 out of 3 people in agriculture to fewer than 1 in 10"
+    },
+    {
+      "id": 44,
+      "difficulty": "Hard",
+      "question": "Behavioral economics might ask which of the following questions?",
+      "choices": [
+        "What is the current inflation rate?",
+        "Do savings increase when people are automatically enrolled in programs rather than having to sign up?",
+        "How did railroads change banking in the 19th century?",
+        "What is the effect of a carbon tax?"
+      ],
+      "solution": "Do savings increase when people are automatically enrolled in programs rather than having to sign up?"
+    },
+    {
+      "id": 45,
+      "difficulty": "Medium",
+      "question": "Industrial Organization is a field that might study:",
+      "choices": [
+        "Price wars in the airline industry",
+        "The history of economic thought",
+        "Poverty rates in developing nations",
+        "The legal system"
+      ],
+      "solution": "Price wars in the airline industry"
+    },
+    {
+      "id": 46,
+      "difficulty": "Easy",
+      "question": "Which economist is associated with 'The Wealth of Nations' (1776)?",
+      "choices": [
+        "Karl Marx",
+        "Adam Smith",
+        "David Ricardo",
+        "Thomas Malthus"
+      ],
+      "solution": "Adam Smith"
+    },
+    {
+      "id": 47,
+      "difficulty": "Medium",
+      "question": "If a line on a graph is horizontal, its slope is:",
+      "choices": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Infinite"
+      ],
+      "solution": "Zero"
+    },
+    {
+      "id": 48,
+      "difficulty": "Hard",
+      "question": "Scenario: A 45-degree line on a graph of Consumption vs. Income represents:",
+      "choices": [
+        "The point where Consumption equals zero",
+        "The line where the value on the X-axis is exactly equal to the value on the Y-axis",
+        "Maximum efficiency",
+        "A negative relationship"
+      ],
+      "solution": "The line where the value on the X-axis is exactly equal to the value on the Y-axis"
+    },
+    {
+      "id": 49,
+      "difficulty": "Medium",
+      "question": "Which of the following is a key reason to study economics mentioned in the text?",
+      "choices": [
+        "To become rich quickly",
+        "To be an informed citizen",
+        "To memorize historical dates",
+        "To learn how to repair machinery"
+      ],
+      "solution": "To be an informed citizen"
+    },
+    {
+      "id": 50,
+      "difficulty": "Medium",
+      "question": "When we say resources are 'scarce', we mean:",
+      "choices": [
+        "They are impossible to find",
+        "They are limited relative to our wants and needs",
+        "They are very expensive",
+        "They are only found in certain countries"
+      ],
+      "solution": "They are limited relative to our wants and needs"
+    }
+  ]

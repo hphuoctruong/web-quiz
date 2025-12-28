@@ -1,0 +1,602 @@
+[
+    {
+      "id": 1,
+      "difficulty": "Medium",
+      "question": "Tục 'ăn trầu' của người Việt gắn liền với sự tích nào?",
+      "choices": [
+        "Sự tích Tấm Cám",
+        "Sự tích Trầu Cau",
+        "Sự tích Cây Khế",
+        "Sự tích Thạch Sanh"
+      ],
+      "solution": "Sự tích Trầu Cau"
+    },
+    {
+      "id": 2,
+      "difficulty": "Medium",
+      "question": "Từ nào sau đây viết SAI chính tả?",
+      "choices": [
+        "Xán lạn",
+        "Sáng lạng",
+        "Bàng hoàng",
+        "Cọ xát"
+      ],
+      "solution": "Sáng lạng"
+    },
+    {
+      "id": 3,
+      "difficulty": "Medium",
+      "question": "Di sản văn hóa phi vật thể nào của Việt Nam được UNESCO công nhận, đặc trưng của vùng Kinh Bắc?",
+      "choices": [
+        "Đờn ca tài tử",
+        "Nhã nhạc cung đình Huế",
+        "Dân ca Quan họ",
+        "Hát Xoan"
+      ],
+      "solution": "Dân ca Quan họ"
+    },
+    {
+      "id": 4,
+      "difficulty": "Medium",
+      "question": "Chọn cặp từ viết đúng chính tả:",
+      "choices": [
+        "Giành giật / Dành dụm",
+        "Dành giật / Giành dụm",
+        "Giành giật / Giành dụm",
+        "Dành giật / Dành dụm"
+      ],
+      "solution": "Giành giật / Dành dụm"
+    },
+    {
+      "id": 5,
+      "difficulty": "Medium",
+      "question": "Lễ hội Chùa Hương diễn ra ở đâu?",
+      "choices": [
+        "Hà Nam",
+        "Ninh Bình",
+        "Hà Nội",
+        "Bắc Ninh"
+      ],
+      "solution": "Hà Nội"
+    },
+    {
+      "id": 6,
+      "difficulty": "Medium",
+      "question": "Điền từ thích hợp: 'Thẳng như ... ngựa'",
+      "choices": [
+        "ruột",
+        "đuôi",
+        "lưng",
+        "chân"
+      ],
+      "solution": "ruột"
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Từ nào sau đây có nghĩa là 'ngắn gọn nhưng đầy đủ ý nghĩa'?",
+      "choices": [
+        "Xúc tích",
+        "Súc tích",
+        "Xúc xích",
+        "Súc xích"
+      ],
+      "solution": "Súc tích"
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Vị vua nào đã dời đô từ Hoa Lư về Thăng Long?",
+      "choices": [
+        "Đinh Tiên Hoàng",
+        "Lê Đại Hành",
+        "Lý Thái Tổ",
+        "Trần Hưng Đạo"
+      ],
+      "solution": "Lý Thái Tổ"
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Chọn từ viết đúng chính tả:",
+      "choices": [
+        "Chân thành",
+        "Trân thành",
+        "Chân thàn",
+        "Trân thàn"
+      ],
+      "solution": "Chân thành"
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Trong tín ngưỡng thờ Mẫu, màu đỏ tượng trưng cho phủ nào?",
+      "choices": [
+        "Thiên phủ",
+        "Địa phủ",
+        "Thủy phủ",
+        "Nhạc phủ"
+      ],
+      "solution": "Thiên phủ"
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Từ nào viết đúng chính tả?",
+      "choices": [
+        "Vô hình chung",
+        "Vô hình trung",
+        "Vô hình dung",
+        "Vô tình chung"
+      ],
+      "solution": "Vô hình trung"
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Làng tranh dân gian nổi tiếng ở Bắc Ninh tên là gì?",
+      "choices": [
+        "Làng tranh Hàng Trống",
+        "Làng tranh Kim Hoàng",
+        "Làng tranh Đông Hồ",
+        "Làng tranh Làng Sình"
+      ],
+      "solution": "Làng tranh Đông Hồ"
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Phân biệt 'Ch' và 'Tr': Từ nào sau đây đúng?",
+      "choices": [
+        "Chông chờ",
+        "Trông chờ",
+        "Trông chò",
+        "Chông trờ"
+      ],
+      "solution": "Trông chờ"
+    },
+    {
+      "id": 14,
+      "difficulty": "Medium",
+      "question": "Nhà sàn là kiến trúc đặc trưng của các dân tộc ở vùng nào?",
+      "choices": [
+        "Đồng bằng sông Cửu Long",
+        "Trung du và miền núi phía Bắc",
+        "Duyên hải Nam Trung Bộ",
+        "Đồng bằng sông Hồng"
+      ],
+      "solution": "Trung du và miền núi phía Bắc"
+    },
+    {
+      "id": 15,
+      "difficulty": "Medium",
+      "question": "Từ nào sau đây viết đúng chính tả?",
+      "choices": [
+        "Bổ sung",
+        "Bổ xung",
+        "Bổ sưng",
+        "Bổ xưng"
+      ],
+      "solution": "Bổ sung"
+    },
+    {
+      "id": 16,
+      "difficulty": "Medium",
+      "question": "Bánh Pía là đặc sản nổi tiếng của tỉnh nào?",
+      "choices": [
+        "Sóc Trăng",
+        "Cần Thơ",
+        "Bến Tre",
+        "Long An"
+      ],
+      "solution": "Sóc Trăng"
+    },
+    {
+      "id": 17,
+      "difficulty": "Medium",
+      "question": "Từ nào sau đây viết đúng chính tả?",
+      "choices": [
+        "Dư giả",
+        "Dư dả",
+        "Dư rả",
+        "Dư giã"
+      ],
+      "solution": "Dư dả"
+    },
+    {
+      "id": 18,
+      "difficulty": "Medium",
+      "question": "Hang động tự nhiên lớn nhất thế giới Sơn Đoòng nằm ở tỉnh nào?",
+      "choices": [
+        "Quảng Bình",
+        "Quảng Trị",
+        "Quảng Nam",
+        "Nghệ An"
+      ],
+      "solution": "Quảng Bình"
+    },
+    {
+      "id": 19,
+      "difficulty": "Medium",
+      "question": "Anh hùng dân tộc nào được xưng tụng là 'Bình Định Vương'?",
+      "choices": [
+        "Quang Trung",
+        "Lê Lợi",
+        "Ngô Quyền",
+        "Đinh Bộ Lĩnh"
+      ],
+      "solution": "Lê Lợi"
+    },
+    {
+      "id": 20,
+      "difficulty": "Medium",
+      "question": "Chọn từ viết đúng chính tả:",
+      "choices": [
+        "Giấu giếm",
+        "Giấu diếm",
+        "Dấu giếm",
+        "Dấu diếm"
+      ],
+      "solution": "Giấu giếm"
+    },
+    {
+      "id": 21,
+      "difficulty": "Medium",
+      "question": "Ai là người được cho là tác giả của bài thơ 'Nam quốc sơn hà'?",
+      "choices": [
+        "Lý Thường Kiệt",
+        "Trần Hưng Đạo",
+        "Nguyễn Trãi",
+        "Quang Trung"
+      ],
+      "solution": "Lý Thường Kiệt"
+    },
+    {
+      "id": 22,
+      "difficulty": "Medium",
+      "question": "Cặp từ nào đúng chính tả?",
+      "choices": [
+        "Trau chuốt",
+        "Chau chuốt",
+        "Trau truốt",
+        "Chau truốt"
+      ],
+      "solution": "Trau chuốt"
+    },
+    {
+      "id": 23,
+      "difficulty": "Medium",
+      "question": "Huyện đảo Hoàng Sa trực thuộc thành phố nào?",
+      "choices": [
+        "Đà Nẵng",
+        "Khánh Hòa",
+        "Bà Rịa - Vũng Tàu",
+        "Hải Phòng"
+      ],
+      "solution": "Đà Nẵng"
+    },
+    {
+      "id": 24,
+      "difficulty": "Medium",
+      "question": "Theo phong tục Việt Nam, ngày 23 tháng Chạp hàng năm là ngày lễ gì?",
+      "choices": [
+        "Cúng ông Công ông Táo",
+        "Lễ Vu Lan",
+        "Tết Hàn Thực",
+        "Lễ Thượng Nguyên"
+      ],
+      "solution": "Cúng ông Công ông Táo"
+    },
+    {
+      "id": 25,
+      "difficulty": "Medium",
+      "question": "Chọn từ viết đúng chính tả:",
+      "choices": [
+        "Xúi giục",
+        "Xúi dục",
+        "Súi giục",
+        "Súi dục"
+      ],
+      "solution": "Xúi giục"
+    },
+    {
+      "id": 26,
+      "difficulty": "Difficult",
+      "question": "Từ 'Bàng quan' có nghĩa là gì?",
+      "choices": [
+        "Cơ quan chứa nước tiểu",
+        "Làm ngơ, đứng ngoài xem, coi như không dính líu gì đến mình",
+        "Một loại cây bóng mát",
+        "Tầm nhìn rộng lớn"
+      ],
+      "solution": "Làm ngơ, đứng ngoài xem, coi như không dính líu gì đến mình"
+    },
+    {
+      "id": 27,
+      "difficulty": "Difficult",
+      "question": "Triều đại phong kiến cuối cùng của Việt Nam là triều đại nào?",
+      "choices": [
+        "Nhà Hậu Lê",
+        "Nhà Tây Sơn",
+        "Nhà Nguyễn",
+        "Nhà Mạc"
+      ],
+      "solution": "Nhà Nguyễn"
+    },
+    {
+      "id": 28,
+      "difficulty": "Difficult",
+      "question": "Từ nào sau đây viết SAI chính tả?",
+      "choices": [
+        "Kết cục",
+        "Rốt cuộc",
+        "Kết cuộc",
+        "Rốt cục"
+      ],
+      "solution": "Kết cuộc"
+    },
+    {
+      "id": 29,
+      "difficulty": "Difficult",
+      "question": "Trong bộ tứ linh 'Long, Lân, Quy, Phụng', con 'Lân' tượng trưng cho điều gì?",
+      "choices": [
+        "Sức mạnh và quyền uy",
+        "Sự trường thọ",
+        "Thái bình và minh chúa",
+        "Sự bất tử và tái sinh"
+      ],
+      "solution": "Thái bình và minh chúa"
+    },
+    {
+      "id": 30,
+      "difficulty": "Difficult",
+      "question": "Chọn từ viết đúng chính tả để chỉ hành động 'tự tiện làm điều không được phép':",
+      "choices": [
+        "Tự tiện",
+        "Tự thuận",
+        "Tự trận",
+        "Tự tịên"
+      ],
+      "solution": "Tự tiện"
+    },
+    {
+      "id": 31,
+      "difficulty": "Difficult",
+      "question": "Chữ 'Nôm' được xây dựng dựa trên cơ sở của loại văn tự nào?",
+      "choices": [
+        "Chữ Hán",
+        "Chữ Phạn",
+        "Chữ Quốc ngữ",
+        "Chữ Latinh"
+      ],
+      "solution": "Chữ Hán"
+    },
+    {
+      "id": 32,
+      "difficulty": "Difficult",
+      "question": "Câu thành ngữ nào đúng chính tả và ý nghĩa?",
+      "choices": [
+        "Ướt như chuột lột",
+        "Ướt như chuột lụt",
+        "Ướt như chuột lội",
+        "Ướt như chuột lộc"
+      ],
+      "solution": "Ướt như chuột lột"
+    },
+    {
+      "id": 33,
+      "difficulty": "Difficult",
+      "question": "Nhạc cụ nào sau đây KHÔNG thuộc bộ dây?",
+      "choices": [
+        "Đàn Nguyệt",
+        "Đàn Tỳ Bà",
+        "Đàn Nhị",
+        "Kèn Bầu"
+      ],
+      "solution": "Kèn Bầu"
+    },
+    {
+      "id": 34,
+      "difficulty": "Difficult",
+      "question": "Từ nào đúng chính tả: 'Chẩn đoán' hay 'Chuẩn đoán'?",
+      "choices": [
+        "Chuẩn đoán",
+        "Chẩn đoán",
+        "Trẩn đoán",
+        "Chẩn đáng"
+      ],
+      "solution": "Chẩn đoán"
+    },
+    {
+      "id": 35,
+      "difficulty": "Difficult",
+      "question": "Tác phẩm 'Truyện Kiều' của Nguyễn Du được viết bằng thể thơ nào?",
+      "choices": [
+        "Thất ngôn bát cú",
+        "Song thất lục bát",
+        "Lục bát",
+        "Ngũ ngôn"
+      ],
+      "solution": "Lục bát"
+    },
+    {
+      "id": 36,
+      "difficulty": "Difficult",
+      "question": "Điền vào chỗ trống: 'Cứu cánh' có nghĩa gốc là ...",
+      "choices": [
+        "Sự giúp đỡ cuối cùng",
+        "Mục đích cuối cùng",
+        "Giải pháp tạm thời",
+        "Phao cứu sinh"
+      ],
+      "solution": "Mục đích cuối cùng"
+    },
+    {
+      "id": 37,
+      "difficulty": "Difficult",
+      "question": "Lễ hội Kate là lễ hội quan trọng của dân tộc nào?",
+      "choices": [
+        "Dân tộc Khmer",
+        "Dân tộc Chăm",
+        "Dân tộc Tày",
+        "Dân tộc H'Mông"
+      ],
+      "solution": "Dân tộc Chăm"
+    },
+    {
+      "id": 38,
+      "difficulty": "Difficult",
+      "question": "Từ nào sau đây viết đúng chính tả?",
+      "choices": [
+        "Khuyến mại (dùng trong thương mại)",
+        "Khuyến mãi (dùng trong thương mại)",
+        "Cả hai đều đúng nhưng ngữ cảnh khác nhau",
+        "Cả hai đều sai"
+      ],
+      "solution": "Cả hai đều đúng nhưng ngữ cảnh khác nhau"
+    },
+    {
+      "id": 39,
+      "difficulty": "Difficult",
+      "question": "Địa danh nào được mệnh danh là 'Thành phố của những cây cầu'?",
+      "choices": [
+        "Cần Thơ",
+        "Huế",
+        "Đà Nẵng",
+        "Hội An"
+      ],
+      "solution": "Đà Nẵng"
+    },
+    {
+      "id": 40,
+      "difficulty": "Difficult",
+      "question": "Phân biệt 'S' và 'X': Từ nào đúng?",
+      "choices": [
+        "Xoay sở",
+        "Xoay xở",
+        "Soay sở",
+        "Soay xở"
+      ],
+      "solution": "Xoay xở"
+    },
+    {
+      "id": 41,
+      "difficulty": "Difficult",
+      "question": "Năm 1010, vua Lý Thái Tổ ban chiếu gì?",
+      "choices": [
+        "Chiếu Cần Vương",
+        "Chiếu Dời Đô",
+        "Bình Ngô Đại Cáo",
+        "Hịch Tướng Sĩ"
+      ],
+      "solution": "Chiếu Dời Đô"
+    },
+    {
+      "id": 42,
+      "difficulty": "Difficult",
+      "question": "Từ nào sau đây đúng chính tả: 'Giả thuyết' hay 'Giả thiết' (trong toán học)?",
+      "choices": [
+        "Giả thuyết",
+        "Giả thiết",
+        "Dả thuyết",
+        "Dả thiết"
+      ],
+      "solution": "Giả thiết"
+    },
+    {
+      "id": 43,
+      "difficulty": "Difficult",
+      "question": "Vùng đất nào được gọi là 'Đất Tổ'?",
+      "choices": [
+        "Phú Thọ",
+        "Ninh Bình",
+        "Thanh Hóa",
+        "Nghệ An"
+      ],
+      "solution": "Phú Thọ"
+    },
+    {
+      "id": 44,
+      "difficulty": "Difficult",
+      "question": "Chữ 'ngh' chỉ có thể đứng trước các nguyên âm nào?",
+      "choices": [
+        "a, o, u",
+        "i, e, ê",
+        "ư, ơ, ô",
+        "Tất cả các nguyên âm"
+      ],
+      "solution": "i, e, ê"
+    },
+    {
+      "id": 45,
+      "difficulty": "Difficult",
+      "question": "Cao nguyên đá Đồng Văn thuộc tỉnh nào?",
+      "choices": [
+        "Lào Cai",
+        "Cao Bằng",
+        "Hà Giang",
+        "Yên Bái"
+      ],
+      "solution": "Hà Giang"
+    },
+    {
+      "id": 46,
+      "difficulty": "Difficult",
+      "question": "Quốc hiệu nước ta dưới thời nhà Hồ là gì?",
+      "choices": [
+        "Đại Việt",
+        "Đại Ngu",
+        "Đại Cồ Việt",
+        "Vạn Xuân"
+      ],
+      "solution": "Đại Ngu"
+    },
+    {
+      "id": 47,
+      "difficulty": "Difficult",
+      "question": "Chọn từ viết đúng chính tả:",
+      "choices": [
+        "Triền miên",
+        "Chuyền miên",
+        "Chiền miên",
+        "Truyền miên"
+      ],
+      "solution": "Triền miên"
+    },
+    {
+      "id": 48,
+      "difficulty": "Difficult",
+      "question": "Điểm cực Bắc của Việt Nam nằm ở xã Lũng Cú thuộc tỉnh nào?",
+      "choices": [
+        "Hà Giang",
+        "Lào Cai",
+        "Cao Bằng",
+        "Lai Châu"
+      ],
+      "solution": "Hà Giang"
+    },
+    {
+      "id": 49,
+      "difficulty": "Difficult",
+      "question": "Tên gốc của truyện ngắn 'Chí Phèo' (Nam Cao) khi in thành sách lần đầu năm 1941 là gì?",
+      "choices": [
+        "Cái lò gạch cũ",
+        "Đôi lứa xứng đôi",
+        "Chí Phèo",
+        "Thị Nở"
+      ],
+      "solution": "Đôi lứa xứng đôi"
+    },
+    {
+      "id": 50,
+      "difficulty": "Difficult",
+      "question": "Từ nào đúng dùng để chỉ việc bắt đầu giữ chức vụ?",
+      "choices": [
+        "Nhậm chức",
+        "Nhiệm chức",
+        "Nhận chức",
+        "Nhiễm chức"
+      ],
+      "solution": "Nhậm chức"
+    }
+  ]

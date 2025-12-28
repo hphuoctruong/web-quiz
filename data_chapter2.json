@@ -1,0 +1,602 @@
+[
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the central problem addressed by the discipline of economics?",
+      "choices": [
+        "Unlimited resources",
+        "Choice in a world of scarcity",
+        "Maximizing government control",
+        "Eliminating international trade"
+      ],
+      "solution": "Choice in a world of scarcity"
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which of the following is NOT one of the three key questions every society must answer?",
+      "choices": [
+        "What gets produced?",
+        "How is it produced?",
+        "Why is it produced?",
+        "Who gets what is produced?"
+      ],
+      "solution": "Why is it produced?"
+    },
+    {
+      "id": 3,
+      "difficulty": "Medium",
+      "question": "What distinguishes positive questions from normative questions in economics?",
+      "choices": [
+        "Positive questions ask 'what should be', while normative ask 'what is'.",
+        "Positive questions relate to the future, normative to the past.",
+        "Positive questions describe how a system functions, while normative questions ask about outcomes being good or bad.",
+        "Positive questions involve money, normative questions involve labor."
+      ],
+      "solution": "Positive questions describe how a system functions, while normative questions ask about outcomes being good or bad."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which of the following is considered a factor of production?",
+      "choices": [
+        "Money",
+        "Stocks and bonds",
+        "Labor",
+        "Finished consumer goods"
+      ],
+      "solution": "Labor"
+    },
+    {
+      "id": 5,
+      "difficulty": "Medium",
+      "question": "In economics, what does the term 'capital' refer to?",
+      "choices": [
+        "Financial assets like cash and stocks",
+        "The seat of government",
+        "Goods produced by the economic system used to produce other goods and services",
+        "Natural resources like land and minerals"
+      ],
+      "solution": "Goods produced by the economic system used to produce other goods and services"
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "What are the three primary factors of production?",
+      "choices": [
+        "Money, Markets, Management",
+        "Land, Labor, Capital",
+        "Stocks, Bonds, Cash",
+        "Supply, Demand, Price"
+      ],
+      "solution": "Land, Labor, Capital"
+    },
+    {
+      "id": 7,
+      "difficulty": "Easy",
+      "question": "The process that transforms scarce resources into useful goods and services is called:",
+      "choices": [
+        "Consumption",
+        "Distribution",
+        "Production",
+        "Allocation"
+      ],
+      "solution": "Production"
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Which of the following is an example of a government-produced good?",
+      "choices": [
+        "Smartphones",
+        "National defense",
+        "Commercial airline travel",
+        "Fast food"
+      ],
+      "solution": "National defense"
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "The concept of 'opportunity cost' is best defined as:",
+      "choices": [
+        "The monetary price paid for a good",
+        "The value of the best alternative that is forgone when a choice is made",
+        "The cost of production inputs",
+        "The time it takes to make a decision"
+      ],
+      "solution": "The value of the best alternative that is forgone when a choice is made"
+    },
+    {
+      "id": 10,
+      "difficulty": "Hard",
+      "question": "If Bill decides to hunt instead of gathering berries, the 'true cost' of that decision is:",
+      "choices": [
+        "The energy he exerts hunting",
+        "The berries he could have gathered but didn't",
+        "The time he spends sleeping later",
+        "Zero, because hunting is free"
+      ],
+      "solution": "The berries he could have gathered but didn't"
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "According to David Ricardo's theory, specialization and free trade benefit all trading parties even when:",
+      "choices": [
+        "One party has an absolute advantage in everything",
+        "There are no transport costs",
+        "Both parties produce the exact same goods",
+        "Resources are unlimited"
+      ],
+      "solution": "One party has an absolute advantage in everything"
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "A producer has an absolute advantage over another if:",
+      "choices": [
+        "They can produce a good using fewer resources",
+        "They have a lower opportunity cost",
+        "They sell the product for a higher price",
+        "They have more employees"
+      ],
+      "solution": "They can produce a good using fewer resources"
+    },
+    {
+      "id": 13,
+      "difficulty": "Hard",
+      "question": "If Colleen gives up 1 log to produce 1 bushel of food, and Bill gives up 2 logs to produce 1 bushel of food, who has the comparative advantage in producing food?",
+      "choices": [
+        "Bill",
+        "Colleen",
+        "Neither",
+        "Both have equal advantage"
+      ],
+      "solution": "Colleen"
+    },
+    {
+      "id": 14,
+      "difficulty": "Medium",
+      "question": "Comparative advantage is determined by comparing:",
+      "choices": [
+        "Total production output",
+        "Absolute costs",
+        "Opportunity costs",
+        "Market prices"
+      ],
+      "solution": "Opportunity costs"
+    },
+    {
+      "id": 15,
+      "difficulty": "Medium",
+      "question": "In the context of the frozen food industry example, what economic concept helps explain the rise in frozen food consumption?",
+      "choices": [
+        "Absolute advantage",
+        "Inflation",
+        "Opportunity cost of time",
+        "Government regulation"
+      ],
+      "solution": "Opportunity cost of time"
+    },
+    {
+      "id": 16,
+      "difficulty": "Hard",
+      "question": "If a person has a comparative advantage in a task, it implies they:",
+      "choices": [
+        "Are faster at the task than anyone else",
+        "Have a lower opportunity cost for that task than others",
+        "Use more resources to complete the task",
+        "Produce higher quality results regardless of cost"
+      ],
+      "solution": "Have a lower opportunity cost for that task than others"
+    },
+    {
+      "id": 17,
+      "difficulty": "Medium",
+      "question": "The act of saving is best described as:",
+      "choices": [
+        "Trading future benefits for present benefits",
+        "Trading present benefits for expected future benefits",
+        "Hoarding resources indefinitely",
+        "Eliminating scarcity"
+      ],
+      "solution": "Trading present benefits for expected future benefits"
+    },
+    {
+      "id": 18,
+      "difficulty": "Easy",
+      "question": "Goods produced for present consumption are called:",
+      "choices": [
+        "Capital goods",
+        "Investment goods",
+        "Consumer goods",
+        "Public goods"
+      ],
+      "solution": "Consumer goods"
+    },
+    {
+      "id": 19,
+      "difficulty": "Medium",
+      "question": "In economics, 'investment' strictly refers to:",
+      "choices": [
+        "Buying stocks and bonds",
+        "Saving money in a bank account",
+        "The creation of new capital",
+        "Purchasing land for speculation"
+      ],
+      "solution": "The creation of new capital"
+    },
+    {
+      "id": 20,
+      "difficulty": "Easy",
+      "question": "What does a Production Possibility Frontier (PPF) graph show?",
+      "choices": [
+        "The relationship between price and demand",
+        "All combinations of goods that can be produced if resources are used efficiently",
+        "The total profit of a company",
+        "The distribution of income in a society"
+      ],
+      "solution": "All combinations of goods that can be produced if resources are used efficiently"
+    },
+    {
+      "id": 21,
+      "difficulty": "Medium",
+      "question": "A point inside the Production Possibility Frontier (PPF) represents:",
+      "choices": [
+        "Full employment",
+        "Production efficiency",
+        "Unemployment or inefficiency",
+        "An impossible production level"
+      ],
+      "solution": "Unemployment or inefficiency"
+    },
+    {
+      "id": 22,
+      "difficulty": "Medium",
+      "question": "A point outside (to the right of) the Production Possibility Frontier (PPF) represents:",
+      "choices": [
+        "Inefficient production",
+        "A combination that is currently unattainable",
+        "A recession",
+        "Full resource employment"
+      ],
+      "solution": "A combination that is currently unattainable"
+    },
+    {
+      "id": 23,
+      "difficulty": "Hard",
+      "question": "What does the negative slope of the PPF indicate?",
+      "choices": [
+        "Resources are unlimited",
+        "Production is inefficient",
+        "Scarcity and trade-offs",
+        "Technological decline"
+      ],
+      "solution": "Scarcity and trade-offs"
+    },
+    {
+      "id": 24,
+      "difficulty": "Hard",
+      "question": "The Marginal Rate of Transformation (MRT) is represented by:",
+      "choices": [
+        "The Y-intercept of the PPF",
+        "The X-intercept of the PPF",
+        "The slope of the Production Possibility Frontier",
+        "The area under the curve"
+      ],
+      "solution": "The slope of the Production Possibility Frontier"
+    },
+    {
+      "id": 25,
+      "difficulty": "Hard",
+      "question": "Why is the Production Possibility Frontier often bowed out (concave) rather than a straight line?",
+      "choices": [
+        "Resources are not perfectly adaptable to alternative uses",
+        "Opportunity costs are constant",
+        "Technology is constant",
+        "Consumer demand fluctuates"
+      ],
+      "solution": "Resources are not perfectly adaptable to alternative uses"
+    },
+    {
+      "id": 26,
+      "difficulty": "Medium",
+      "question": "The Law of Increasing Opportunity Cost states that:",
+      "choices": [
+        "As production increases, costs always decrease",
+        "As society produces more of one good, the cost in terms of the other good increases",
+        "Opportunity costs remain constant regardless of production levels",
+        "Specialization reduces all costs to zero"
+      ],
+      "solution": "As society produces more of one good, the cost in terms of the other good increases"
+    },
+    {
+      "id": 27,
+      "difficulty": "Medium",
+      "question": "Economic growth is graphically represented by:",
+      "choices": [
+        "Moving from a point inside the PPF to the boundary",
+        "Moving along the PPF curve",
+        "A shift of the PPF up and to the right",
+        "A shift of the PPF down and to the left"
+      ],
+      "solution": "A shift of the PPF up and to the right"
+    },
+    {
+      "id": 28,
+      "difficulty": "Medium",
+      "question": "Which of the following is a primary source of economic growth?",
+      "choices": [
+        "Depletion of natural resources",
+        "Acquisition of new resources or technological advances",
+        "Decreased capital stock",
+        "Reduced labor force"
+      ],
+      "solution": "Acquisition of new resources or technological advances"
+    },
+    {
+      "id": 29,
+      "difficulty": "Hard",
+      "question": "Why might poor countries struggle to invest in capital compared to rich countries?",
+      "choices": [
+        "They have no labor force",
+        "Capital goods are not useful in poor countries",
+        "Sacrificing present consumption for capital is more difficult when living near subsistence",
+        "Rich countries forbid them from investing"
+      ],
+      "solution": "Sacrificing present consumption for capital is more difficult when living near subsistence"
+    },
+    {
+      "id": 30,
+      "difficulty": "Medium",
+      "question": "Output efficiency ensures that:",
+      "choices": [
+        "The economy produces what people want",
+        "Production costs are maximized",
+        "Everyone has a job",
+        "Resources are used to produce only capital goods"
+      ],
+      "solution": "The economy produces what people want"
+    },
+    {
+      "id": 31,
+      "difficulty": "Easy",
+      "question": "In a pure command economy, who answers the basic economic questions?",
+      "choices": [
+        "Individual consumers",
+        "The central government",
+        "Private firms",
+        "International trade organizations"
+      ],
+      "solution": "The central government"
+    },
+    {
+      "id": 32,
+      "difficulty": "Easy",
+      "question": "The term 'laissez-faire' implies:",
+      "choices": [
+        "Complete government control",
+        "A mix of public and private sectors",
+        "A complete lack of government involvement in the economy",
+        "Heavy regulation of markets"
+      ],
+      "solution": "A complete lack of government involvement in the economy"
+    },
+    {
+      "id": 33,
+      "difficulty": "Easy",
+      "question": "A 'market' in economics is defined as:",
+      "choices": [
+        "A physical store like a supermarket",
+        "The stock exchange only",
+        "An institution through which buyers and sellers interact and exchange",
+        "A government planning committee"
+      ],
+      "solution": "An institution through which buyers and sellers interact and exchange"
+    },
+    {
+      "id": 34,
+      "difficulty": "Medium",
+      "question": "What is 'consumer sovereignty'?",
+      "choices": [
+        "The government decides what consumers buy",
+        "Consumers dictate what is produced by voting with their dollars",
+        "Producers determine market prices unilaterally",
+        "Consumers have no influence on production decisions"
+      ],
+      "solution": "Consumers dictate what is produced by voting with their dollars"
+    },
+    {
+      "id": 35,
+      "difficulty": "Medium",
+      "question": "In a free market system, what is the basic coordinating mechanism?",
+      "choices": [
+        "Government directives",
+        "Price",
+        "Bureaucracy",
+        "Lottery"
+      ],
+      "solution": "Price"
+    },
+    {
+      "id": 36,
+      "difficulty": "Medium",
+      "question": "What does it mean for a firm to 'make a profit'?",
+      "choices": [
+        "Selling goods for the same amount they cost to produce",
+        "Selling goods for less than they cost to produce",
+        "Selling goods for more than it costs to produce them",
+        "Receiving a government subsidy"
+      ],
+      "solution": "Selling goods for more than it costs to produce them"
+    },
+    {
+      "id": 37,
+      "difficulty": "Medium",
+      "question": "Microeconomic theory is often referred to as:",
+      "choices": [
+        "Growth theory",
+        "Price theory",
+        "Monetary theory",
+        "Fiscal theory"
+      ],
+      "solution": "Price theory"
+    },
+    {
+      "id": 38,
+      "difficulty": "Easy",
+      "question": "Most real-world economies, including the United States, are classified as:",
+      "choices": [
+        "Pure command economies",
+        "Pure laissez-faire economies",
+        "Mixed systems",
+        "Traditional economies"
+      ],
+      "solution": "Mixed systems"
+    },
+    {
+      "id": 39,
+      "difficulty": "Medium",
+      "question": "Which of the following is NOT a role typically played by the government in a mixed economy like the US?",
+      "choices": [
+        "Redistributing income",
+        "Regulating economic activities",
+        "Providing public goods like defense",
+        "Setting all prices for consumer goods"
+      ],
+      "solution": "Setting all prices for consumer goods"
+    },
+    {
+      "id": 40,
+      "difficulty": "Medium",
+      "question": "Human capital refers to:",
+      "choices": [
+        "The number of workers in a factory",
+        "Robots that look like humans",
+        "Skills and knowledge acquired by people",
+        "Money held by individuals"
+      ],
+      "solution": "Skills and knowledge acquired by people"
+    },
+    {
+      "id": 41,
+      "difficulty": "Hard",
+      "question": "How did the introduction of cell phones in Indian fishing villages illustrate the benefit of technology?",
+      "choices": [
+        "It allowed fishermen to play games while waiting for fish",
+        "It reduced waste and increased profits by helping fishermen find buyers",
+        "It increased the cost of fishing significantly",
+        "It allowed the government to track the fishermen"
+      ],
+      "solution": "It reduced waste and increased profits by helping fishermen find buyers"
+    },
+    {
+      "id": 42,
+      "difficulty": "Hard",
+      "question": "Why does the text suggest that 'needs' are difficult to define in economics?",
+      "choices": [
+        "Because everyone has the same needs",
+        "Because needs are absolute requirements that never change",
+        "Because beyond basic survival, needs are subjective and hard to distinguish from wants",
+        "Because needs are not relevant to economics"
+      ],
+      "solution": "Because beyond basic survival, needs are subjective and hard to distinguish from wants"
+    },
+    {
+      "id": 43,
+      "difficulty": "Medium",
+      "question": "Production efficiency occurs when:",
+      "choices": [
+        "A given mix of outputs is produced at the least cost",
+        "The government mandates production quotas",
+        "Wages are at their highest point",
+        "Consumers buy everything produced"
+      ],
+      "solution": "A given mix of outputs is produced at the least cost"
+    },
+    {
+      "id": 44,
+      "difficulty": "Medium",
+      "question": "In the example of corn and wheat production in Ohio and Kansas, what happened to the opportunity cost of corn as more corn was produced?",
+      "choices": [
+        "It decreased",
+        "It stayed the same",
+        "It increased",
+        "It fell to zero"
+      ],
+      "solution": "It increased"
+    },
+    {
+      "id": 45,
+      "difficulty": "Easy",
+      "question": "Which of the following best describes the 'economic problem'?",
+      "choices": [
+        "How to print more money",
+        "How to allocate scarce resources to satisfy unlimited wants",
+        "How to eliminate taxes",
+        "How to ensure everyone is wealthy"
+      ],
+      "solution": "How to allocate scarce resources to satisfy unlimited wants"
+    },
+    {
+      "id": 46,
+      "difficulty": "Medium",
+      "question": "In a free enterprise system, individual producers determine:",
+      "choices": [
+        "Who buys their products",
+        "How to organize and coordinate production",
+        "The total money supply",
+        "The tax rate"
+      ],
+      "solution": "How to organize and coordinate production"
+    },
+    {
+      "id": 47,
+      "difficulty": "Medium",
+      "question": "What effect did the increase in women's labor force participation have on the frozen food market?",
+      "choices": [
+        "It decreased demand because women had more time to cook",
+        "It increased the opportunity cost of home-cooked meals, increasing demand for frozen foods",
+        "It had no effect",
+        "It caused the price of frozen foods to triple immediately"
+      ],
+      "solution": "It increased the opportunity cost of home-cooked meals, increasing demand for frozen foods"
+    },
+    {
+      "id": 48,
+      "difficulty": "Medium",
+      "question": "Which of the following is considered an 'input' in the production process?",
+      "choices": [
+        "The final product sold to consumers",
+        "Factors of production like land and machinery",
+        "The revenue earned from sales",
+        "The waste generated by households"
+      ],
+      "solution": "Factors of production like land and machinery"
+    },
+    {
+      "id": 49,
+      "difficulty": "Medium",
+      "question": "Which of the following is a key reason to study economics mentioned in the text?",
+      "choices": [
+        "To become rich quickly",
+        "To be an informed citizen",
+        "To memorize historical dates",
+        "To learn how to repair machinery"
+      ],
+      "solution": "To be an informed citizen"
+    },
+    {
+      "id": 50,
+      "difficulty": "Easy",
+      "question": "When resources are fully employed, society can produce more of one good only by:",
+      "choices": [
+        "Printing more money",
+        "Reducing production of another good",
+        "Asking the government for help",
+        "Waiting for prices to drop"
+      ],
+      "solution": "Reducing production of another good"
+    }
+  ]
