@@ -1,602 +1,702 @@
 [
-    {
-      "id": 1,
-      "difficulty": "Easy",
-      "question": "Which branch of economics examines the economic behavior of aggregates like income and employment on a national scale?",
-      "choices": [
-        "Microeconomics",
-        "Macroeconomics",
-        "Global Economics",
-        "Aggregate Microeconomics"
-      ],
-      "solution": "Macroeconomics"
-    },
-    {
-      "id": 2,
-      "difficulty": "Easy",
-      "question": "What term refers to the functioning of individual industries and the behavior of individual decision-making units?",
-      "choices": [
-        "Macroeconomics",
-        "Sectoral Economics",
-        "Microeconomics",
-        "Unit Economics"
-      ],
-      "solution": "Microeconomics"
-    },
-    {
-      "id": 3,
-      "difficulty": "Easy",
-      "question": "What are prices called that do not always adjust rapidly to maintain equality between quantity supplied and demanded?",
-      "choices": [
-        "Flexible prices",
-        "Inelastic prices",
-        "Sticky prices",
-        "Static prices"
-      ],
-      "solution": "Sticky prices"
-    },
-    {
-      "id": 4,
-      "difficulty": "Easy",
-      "question": "Which of the following is NOT one of the three primary concerns of macroeconomics?",
-      "choices": [
-        "Output growth",
-        "Unemployment",
-        "Inflation and deflation",
-        "Stock market performance"
-      ],
-      "solution": "Stock market performance"
-    },
-    {
-      "id": 5,
-      "difficulty": "Easy",
-      "question": "The cycle of short-term ups and downs in the economy is known as:",
-      "choices": [
-        "The business cycle",
-        "The secular trend",
-        "The inflation cycle",
-        "The fiscal cycle"
-      ],
-      "solution": "The business cycle"
-    },
-    {
-      "id": 6,
-      "difficulty": "Easy",
-      "question": "What is the total quantity of goods and services produced in an economy in a given period called?",
-      "choices": [
-        "Aggregate demand",
-        "Aggregate output",
-        "Gross National Income",
-        "Total production capacity"
-      ],
-      "solution": "Aggregate output"
-    },
-    {
-      "id": 7,
-      "difficulty": "Easy",
-      "question": "The period in a business cycle from a trough up to a peak is called:",
-      "choices": [
-        "Recovery",
-        "Peak",
-        "Expansion or boom",
-        "Correction"
-      ],
-      "solution": "Expansion or boom"
-    },
-    {
-      "id": 8,
-      "difficulty": "Easy",
-      "question": "A prolonged and deep recession is referred to as a:",
-      "choices": [
-        "Depression",
-        "Stagnation",
-        "Bear Market",
-        "Contraction"
-      ],
-      "solution": "Depression"
-    },
-    {
-      "id": 9,
-      "difficulty": "Easy",
-      "question": "The unemployment rate is the percentage of the ______ that is unemployed.",
-      "choices": [
-        "Total population",
-        "Working-age population",
-        "Labor force",
-        "Employed population"
-      ],
-      "solution": "Labor force"
-    },
-    {
-      "id": 10,
-      "difficulty": "Easy",
-      "question": "An increase in the overall price level is defined as:",
-      "choices": [
-        "Price appreciation",
-        "Inflation",
-        "Currency devaluation",
-        "Cost-push expansion"
-      ],
-      "solution": "Inflation"
-    },
-    {
-      "id": 11,
-      "difficulty": "Easy",
-      "question": "A decrease in the overall price level is defined as:",
-      "choices": [
-        "Disinflation",
-        "Depreciation",
-        "Deflation",
-        "Devaluation"
-      ],
-      "solution": "Deflation"
-    },
-    {
-      "id": 12,
-      "difficulty": "Easy",
-      "question": "Which of the following is NOT one of the four main groups of participants in the economy?",
-      "choices": [
-        "Households",
-        "Firms",
-        "The Government",
-        "The Financial Sector"
-      ],
-      "solution": "The Financial Sector"
-    },
-    {
-      "id": 13,
-      "difficulty": "Easy",
-      "question": "Cash payments made by the government to people who do not supply goods or services in exchange are called:",
-      "choices": [
-        "Subsidies",
-        "Tax rebates",
-        "Transfer payments",
-        "Public salaries"
-      ],
-      "solution": "Transfer payments"
-    },
-    {
-      "id": 14,
-      "difficulty": "Easy",
-      "question": "The private sector consists of:",
-      "choices": [
-        "Households and the government",
-        "Firms and the banking system",
-        "Households and firms",
-        "The domestic economy excluding imports"
-      ],
-      "solution": "Households and firms"
-    },
-    {
-      "id": 15,
-      "difficulty": "Easy",
-      "question": "Who conducts monetary policy in the United States?",
-      "choices": [
-        "The U.S. Treasury",
-        "The Congress",
-        "The Federal Reserve",
-        "The Council of Economic Advisers"
-      ],
-      "solution": "The Federal Reserve"
-    },
-    {
-      "id": 16,
-      "difficulty": "Medium",
-      "question": "In the circular flow diagram, household saving is considered a ______ from the circular flow.",
-      "choices": [
-        "Injection",
-        "Leakage",
-        "Transfer",
-        "Consumption"
-      ],
-      "solution": "Leakage"
-    },
-    {
-      "id": 17,
-      "difficulty": "Medium",
-      "question": "How do microeconomists generally view prices in markets?",
-      "choices": [
-        "As sticky",
-        "As flexible",
-        "As rigid",
-        "As exogenous"
-      ],
-      "solution": "As flexible"
-    },
-    {
-      "id": 18,
-      "difficulty": "Medium",
-      "question": "In the labor market, who are the primary suppliers of labor?",
-      "choices": [
-        "Firms",
-        "Employment Agencies",
-        "Households",
-        "Unions"
-      ],
-      "solution": "Households"
-    },
-    {
-      "id": 19,
-      "difficulty": "Medium",
-      "question": "A financial instrument that gives the holder a share in a firm's ownership is called:",
-      "choices": [
-        "A corporate bond",
-        "A dividend",
-        "A share of stock",
-        "A retained earning"
-      ],
-      "solution": "A share of stock"
-    },
-    {
-      "id": 20,
-      "difficulty": "Medium",
-      "question": "The portion of a firm's profits paid out to shareholders is known as a:",
-      "choices": [
-        "Capital gain",
-        "Dividend",
-        "Yield",
-        "Return on Equity"
-      ],
-      "solution": "Dividend"
-    },
-    {
-      "id": 21,
-      "difficulty": "Medium",
-      "question": "Fiscal policy refers to the government's decisions regarding:",
-      "choices": [
-        "Interest rates and banking regulations",
-        "Taxes and spending",
-        "Money supply and credit control",
-        "Trade tariffs and quotas"
-      ],
-      "solution": "Taxes and spending"
-    },
-    {
-      "id": 22,
-      "difficulty": "Medium",
-      "question": "According to the classical model, what would happen if there was an excess supply of labor?",
-      "choices": [
-        "Wages would fall, clearing the market",
-        "Demand would naturally increase to match supply",
-        "The government would need to increase spending",
-        "Prices would rise to compensate"
-      ],
-      "solution": "Wages would fall, clearing the market"
-    },
-    {
-      "id": 23,
-      "difficulty": "Medium",
-      "question": "Who wrote 'The General Theory of Employment, Interest and Money'?",
-      "choices": [
-        "Adam Smith",
-        "Karl Marx",
-        "John Maynard Keynes",
-        "Friedrich Hayek"
-      ],
-      "solution": "John Maynard Keynes"
-    },
-    {
-      "id": 24,
-      "difficulty": "Medium",
-      "question": "The Employment Act of 1946 established which advisory body?",
-      "choices": [
-        "The Federal Reserve Open Market Committee",
-        "The Council of Economic Advisers",
-        "The Congressional Budget Office",
-        "The National Economic Council"
-      ],
-      "solution": "The Council of Economic Advisers"
-    },
-    {
-      "id": 25,
-      "difficulty": "Medium",
-      "question": "The phrase 'fine-tuning' in the 1960s referred to the government's role in:",
-      "choices": [
-        "Precisely controlling the money supply",
-        "Balancing the federal budget exactly",
-        "Regulating inflation and unemployment",
-        "Managing exchange rates"
-      ],
-      "solution": "Regulating inflation and unemployment"
-    },
-    {
-      "id": 26,
-      "difficulty": "Medium",
-      "question": "Stagflation is defined as a situation with:",
-      "choices": [
-        "High inflation and economic expansion",
-        "Low inflation and high unemployment",
-        "High inflation and high unemployment",
-        "Deflation and economic contraction"
-      ],
-      "solution": "High inflation and high unemployment"
-    },
-    {
-      "id": 27,
-      "difficulty": "Medium",
-      "question": "Promissory notes issued by the federal government when it borrows money are called:",
-      "choices": [
-        "Federal Reserve Notes",
-        "Treasury bonds, notes, or bills",
-        "Municipal bonds",
-        "Sovereign Debentures"
-      ],
-      "solution": "Treasury bonds, notes, or bills"
-    },
-    {
-      "id": 28,
-      "difficulty": "Medium",
-      "question": "When the government's revenue is less than its payments, the government is:",
-      "choices": [
-        "In default",
-        "Dissaving",
-        "Devaluing",
-        "Leaking"
-      ],
-      "solution": "Dissaving"
-    },
-    {
-      "id": 29,
-      "difficulty": "Medium",
-      "question": "Purchases of domestically made goods and services by foreigners are known as:",
-      "choices": [
-        "Imports",
-        "Exports",
-        "Net Factor Income",
-        "Trade Deficits"
-      ],
-      "solution": "Exports"
-    },
-    {
-      "id": 30,
-      "difficulty": "Medium",
-      "question": "A capital gain occurs when:",
-      "choices": [
-        "A firm declares a profit",
-        "The value of an asset increases",
-        "A bond pays out interest",
-        "Dividends are reinvested"
-      ],
-      "solution": "The value of an asset increases"
-    },
-    {
-      "id": 31,
-      "difficulty": "Medium",
-      "question": "Which economist is associated with the concept of 'fine-tuning' in the 1960s?",
-      "choices": [
-        "John Maynard Keynes",
-        "Walter Heller",
-        "Paul Samuelson",
-        "Milton Friedman"
-      ],
-      "solution": "Walter Heller"
-    },
-    {
-      "id": 32,
-      "difficulty": "Medium",
-      "question": "Which sector borrows by issuing corporate bonds?",
-      "choices": [
-        "Households",
-        "The Government",
-        "Firms",
-        "Financial Intermediaries"
-      ],
-      "solution": "Firms"
-    },
-    {
-      "id": 33,
-      "difficulty": "Hard",
-      "question": "In the severe recession of 1980-1982, the unemployment rate reached a peak of:",
-      "choices": [
-        "8.8 percent",
-        "9.9 percent",
-        "10.7 percent",
-        "12.1 percent"
-      ],
-      "solution": "10.7 percent"
-    },
-    {
-      "id": 34,
-      "difficulty": "Hard",
-      "question": "The U.S. inflation rate peaked at 11.1 percent during which quarter?",
-      "choices": [
-        "1975 I",
-        "1979 II",
-        "1974 IV",
-        "1981 I"
-      ],
-      "solution": "1975 I"
-    },
-    {
-      "id": 35,
-      "difficulty": "Hard",
-      "question": "According to the text, how many recessions has the U.S. economy experienced since 1970 (up to 2017)?",
-      "choices": [
-        "Three",
-        "Four",
-        "Five",
-        "Seven"
-      ],
-      "solution": "Five"
-    },
-    {
-      "id": 36,
-      "difficulty": "Hard",
-      "question": "In which year was John Maynard Keynes's 'The General Theory' published?",
-      "choices": [
-        "1929",
-        "1932",
-        "1936",
-        "1939"
-      ],
-      "solution": "1936"
-    },
-    {
-      "id": 37,
-      "difficulty": "Hard",
-      "question": "During the hyperinflation in Bolivia in 1984-1985, the price of one egg rose from 3,000 pesos to:",
-      "choices": [
-        "6,000 pesos",
-        "10,000 pesos",
-        "15,000 pesos",
-        "30,000 pesos"
-      ],
-      "solution": "10,000 pesos"
-    },
-    {
-      "id": 38,
-      "difficulty": "Hard",
-      "question": "The unemployment rate in the U.S. fell to what level by 2015?",
-      "choices": [
-        "4.9 percent",
-        "5.1 percent",
-        "5.5 percent",
-        "6.2 percent"
-      ],
-      "solution": "5.5 percent"
-    },
-    {
-      "id": 39,
-      "difficulty": "Hard",
-      "question": "In December 2017, the inflation rate in which country reached 4,000 percent?",
-      "choices": [
-        "Zimbabwe",
-        "Turkey",
-        "Venezuela",
-        "Sudan"
-      ],
-      "solution": "Venezuela"
-    },
-    {
-      "id": 40,
-      "difficulty": "Hard",
-      "question": "What characterized the recovery from the 2008-2009 recession compared to previous ones?",
-      "choices": [
-        "It was unusually rapid",
-        "It was unusually slow",
-        "It was driven purely by exports",
-        "It resulted in immediate deflation"
-      ],
-      "solution": "It was unusually slow"
-    },
-    {
-      "id": 41,
-      "difficulty": "Hard",
-      "question": "The second high inflation period in the U.S. since 1970 occurred during:",
-      "choices": [
-        "1973-1975",
-        "1979-1981",
-        "1981-1983",
-        "2007-2009"
-      ],
-      "solution": "1979-1981"
-    },
-    {
-      "id": 42,
-      "difficulty": "Hard",
-      "question": "In the Great Depression, unemployment remained above 14 percent until which year?",
-      "choices": [
-        "1935",
-        "1938",
-        "1940",
-        "1942"
-      ],
-      "solution": "1940"
-    },
-    {
-      "id": 43,
-      "difficulty": "Hard",
-      "question": "Aggregate output actually increased during the Depression years between:",
-      "choices": [
-        "1929 and 1931",
-        "1933 and 1937",
-        "1930 and 1935",
-        "1938 and 1941"
-      ],
-      "solution": "1933 and 1937"
-    },
-    {
-      "id": 44,
-      "difficulty": "Hard",
-      "question": "The recession of 1974-1975 saw the unemployment rate peak at:",
-      "choices": [
-        "7.9 percent",
-        "8.8 percent",
-        "9.2 percent",
-        "10.1 percent"
-      ],
-      "solution": "8.8 percent"
-    },
-    {
-      "id": 45,
-      "difficulty": "Hard",
-      "question": "Which U.S. recession ended in June 2009 according to the NBER?",
-      "choices": [
-        "The Dot-com recession",
-        "The Subprime recession",
-        "The 2008-2009 recession",
-        "The Great Depression"
-      ],
-      "solution": "The 2008-2009 recession"
-    },
-    {
-      "id": 46,
-      "difficulty": "Hard",
-      "question": "Since 1992, the U.S. inflation rate has generally hovered between:",
-      "choices": [
-        "0 and 2 percent",
-        "1 and 3 percent",
-        "2 and 4 percent",
-        "3 and 5 percent"
-      ],
-      "solution": "1 and 3 percent"
-    },
-    {
-      "id": 47,
-      "difficulty": "Hard",
-      "question": "In the circular flow, what is the 'leakage' that withdraws purchasing power?",
-      "choices": [
-        "Consumption",
-        "Government spending",
-        "Exports",
-        "Saving"
-      ],
-      "solution": "Saving"
-    },
-    {
-      "id": 48,
-      "difficulty": "Hard",
-      "question": "Who replaced Janet Yellen as chair of the Federal Reserve in 2018?",
-      "choices": [
-        "Timothy Geithner",
-        "Ben Bernanke",
-        "Jerome Powell",
-        "Mario Draghi"
-      ],
-      "solution": "Jerome Powell"
-    },
-    {
-      "id": 49,
-      "difficulty": "Hard",
-      "question": "Before the Great Depression, the dominant economic models applied were:",
-      "choices": [
-        "Keynesian models",
-        "Classical or market clearing models",
-        "Institutionalist models",
-        "Behavioral models"
-      ],
-      "solution": "Classical or market clearing models"
-    },
-    {
-      "id": 50,
-      "difficulty": "Hard",
-      "question": "In the 1980-1982 recession, inflation peaked at 10.2 percent in:",
-      "choices": [
-        "1980 IV",
-        "1980 II",
-        "1981 I",
-        "1981 III"
-      ],
-      "solution": "1981 I"
-    }
-  ]
+  {
+    "id": 1,
+    "difficulty": "Easy",
+    "question": "Which branch of economics examines the economic behavior of aggregates like income and employment on a national scale?",
+    "choices": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Global Economics",
+      "Aggregate Microeconomics"
+    ],
+    "solution": "Macroeconomics",
+    "reference": "Page 118",
+    "reference_quote": "macroeconomics The branch of economics that examines the economic behavior of aggregates-income, employment, output, and so on-on a national scale."
+  },
+  {
+    "id": 2,
+    "difficulty": "Easy",
+    "question": "What term refers to the functioning of individual industries and the behavior of individual decision-making units?",
+    "choices": [
+      "Macroeconomics",
+      "Sectoral Economics",
+      "Microeconomics",
+      "Unit Economics"
+    ],
+    "solution": "Microeconomics",
+    "reference": "Page 118",
+    "reference_quote": "microeconomics The branch of economics that examines the functioning of individual industries and the behavior of individual decision-making units-that is, firms and households."
+  },
+  {
+    "id": 3,
+    "difficulty": "Easy",
+    "question": "What are prices called that do not always adjust rapidly to maintain equality between quantity supplied and demanded?",
+    "choices": [
+      "Flexible prices",
+      "Inelastic prices",
+      "Sticky prices",
+      "Static prices"
+    ],
+    "solution": "Sticky prices",
+    "reference": "Page 119",
+    "reference_quote": "Sticky prices are prices that do not always adjust rapidly to maintain equality between quantity supplied and quantity demanded."
+  },
+  {
+    "id": 4,
+    "difficulty": "Easy",
+    "question": "Which of the following is NOT one of the three primary concerns of macroeconomics?",
+    "choices": [
+      "Output growth",
+      "Unemployment",
+      "Inflation and deflation",
+      "Stock market performance"
+    ],
+    "solution": "Stock market performance",
+    "reference": "Page 119",
+    "reference_quote": "Three of the major concerns of macroeconomics are Output growth, Unemployment, Inflation and deflation"
+  },
+  {
+    "id": 5,
+    "difficulty": "Easy",
+    "question": "The cycle of short-term ups and downs in the economy is known as:",
+    "choices": [
+      "The business cycle",
+      "The secular trend",
+      "The inflation cycle",
+      "The fiscal cycle"
+    ],
+    "solution": "The business cycle",
+    "reference": "Page 119",
+    "reference_quote": "The technical name for these ups and downs is the business cycle."
+  },
+  {
+    "id": 6,
+    "difficulty": "Easy",
+    "question": "What is the total quantity of goods and services produced in an economy in a given period called?",
+    "choices": [
+      "Aggregate demand",
+      "Aggregate output",
+      "Gross National Income",
+      "Total production capacity"
+    ],
+    "solution": "Aggregate output",
+    "reference": "Page 119",
+    "reference_quote": "aggregate output, the total quantity of goods and services produced in the economy in a given period."
+  },
+  {
+    "id": 7,
+    "difficulty": "Easy",
+    "question": "The period in a business cycle from a trough up to a peak is called:",
+    "choices": [
+      "Recovery",
+      "Peak",
+      "Expansion or boom",
+      "Correction"
+    ],
+    "solution": "Expansion or boom",
+    "reference": "Page 120",
+    "reference_quote": "The period from a trough, or bottom of the cycle, to a peak is called an expansion or a boom."
+  },
+  {
+    "id": 8,
+    "difficulty": "Easy",
+    "question": "A prolonged and deep recession is referred to as a:",
+    "choices": [
+      "Depression",
+      "Stagnation",
+      "Bear Market",
+      "Contraction"
+    ],
+    "solution": "Depression",
+    "reference": "Page 120",
+    "reference_quote": "A prolonged and deep recession is called a depression"
+  },
+  {
+    "id": 9,
+    "difficulty": "Easy",
+    "question": "The unemployment rate is the percentage of the ______ that is unemployed.",
+    "choices": [
+      "Total population",
+      "Working-age population",
+      "Labor force",
+      "Employed population"
+    ],
+    "solution": "Labor force",
+    "reference": "Page 121",
+    "reference_quote": "the unemployment rate the percentage of the labor force that is unemployed is a key indicator of the economy's health"
+  },
+  {
+    "id": 10,
+    "difficulty": "Easy",
+    "question": "An increase in the overall price level is defined as:",
+    "choices": [
+      "Price appreciation",
+      "Inflation",
+      "Currency devaluation",
+      "Cost-push expansion"
+    ],
+    "solution": "Inflation",
+    "reference": "Page 121",
+    "reference_quote": "Inflation is an increase in the overall price level."
+  },
+  {
+    "id": 11,
+    "difficulty": "Easy",
+    "question": "A decrease in the overall price level is defined as:",
+    "choices": [
+      "Disinflation",
+      "Depreciation",
+      "Deflation",
+      "Devaluation"
+    ],
+    "solution": "Deflation",
+    "reference": "Page 121",
+    "reference_quote": "A decrease in the overall price level is called deflation."
+  },
+  {
+    "id": 12,
+    "difficulty": "Easy",
+    "question": "Which of the following is NOT one of the four main groups of participants in the economy?",
+    "choices": [
+      "Households",
+      "Firms",
+      "The Government",
+      "The Financial Sector"
+    ],
+    "solution": "The Financial Sector",
+    "reference": "Page 122",
+    "reference_quote": "divide the participants in the economy into four broad groups: (1) households, (2) firms, (3) the government, and (4) the rest of the world."
+  },
+  {
+    "id": 13,
+    "difficulty": "Easy",
+    "question": "Cash payments made by the government to people who do not supply goods or services in exchange are called:",
+    "choices": [
+      "Subsidies",
+      "Tax rebates",
+      "Transfer payments",
+      "Public salaries"
+    ],
+    "solution": "Transfer payments",
+    "reference": "Page 122",
+    "reference_quote": "Economists call these kinds of payments from the government (for which the recipients do not supply goods, services, or labor) transfer payments."
+  },
+  {
+    "id": 14,
+    "difficulty": "Easy",
+    "question": "The private sector consists of:",
+    "choices": [
+      "Households and the government",
+      "Firms and the banking system",
+      "Households and firms",
+      "The domestic economy excluding imports"
+    ],
+    "solution": "Households and firms",
+    "reference": "Page 122",
+    "reference_quote": "Households and firms make up the private sector"
+  },
+  {
+    "id": 15,
+    "difficulty": "Easy",
+    "question": "Who conducts monetary policy in the United States?",
+    "choices": [
+      "The U.S. Treasury",
+      "The Congress",
+      "The Federal Reserve",
+      "The Council of Economic Advisers"
+    ],
+    "solution": "The Federal Reserve",
+    "reference": "Page 124",
+    "reference_quote": "Monetary policy in the United States is conducted by the Federal Reserve, the nation's central bank."
+  },
+  {
+    "id": 16,
+    "difficulty": "Medium",
+    "question": "In the circular flow diagram, household saving is considered a ______ from the circular flow.",
+    "choices": [
+      "Injection",
+      "Leakage",
+      "Transfer",
+      "Consumption"
+    ],
+    "solution": "Leakage",
+    "reference": "Page 123",
+    "reference_quote": "Saving by households is sometimes termed a 'leakage' from the circular flow because it withdraws income, or current purchasing power, from the system."
+  },
+  {
+    "id": 17,
+    "difficulty": "Medium",
+    "question": "How do microeconomists generally view prices in markets?",
+    "choices": [
+      "As sticky",
+      "As flexible",
+      "As rigid",
+      "As exogenous"
+    ],
+    "solution": "As flexible",
+    "reference": "Page 119",
+    "reference_quote": "Microeconomists generally conclude that markets work well. They see prices as flexible"
+  },
+  {
+    "id": 18,
+    "difficulty": "Medium",
+    "question": "In the labor market, who are the primary suppliers of labor?",
+    "choices": [
+      "Firms",
+      "Employment Agencies",
+      "Households",
+      "Unions"
+    ],
+    "solution": "Households",
+    "reference": "Page 123",
+    "reference_quote": "In this market, households supply labor and firms and the government demand labor."
+  },
+  {
+    "id": 19,
+    "difficulty": "Medium",
+    "question": "A financial instrument that gives the holder a share in a firm's ownership is called:",
+    "choices": [
+      "A corporate bond",
+      "A dividend",
+      "A share of stock",
+      "A retained earning"
+    ],
+    "solution": "A share of stock",
+    "reference": "Page 124",
+    "reference_quote": "A share of stock is a financial instrument that gives the holder a share in the firm's ownership"
+  },
+  {
+    "id": 20,
+    "difficulty": "Medium",
+    "question": "The portion of a firm's profits paid out to shareholders is known as a:",
+    "choices": [
+      "Capital gain",
+      "Dividend",
+      "Yield",
+      "Return on Equity"
+    ],
+    "solution": "Dividend",
+    "reference": "Page 124",
+    "reference_quote": "dividend The portion of a firm's profits that the firm pays out each period to its shareholders"
+  },
+  {
+    "id": 21,
+    "difficulty": "Medium",
+    "question": "Fiscal policy refers to the government's decisions regarding:",
+    "choices": [
+      "Interest rates and banking regulations",
+      "Taxes and spending",
+      "Money supply and credit control",
+      "Trade tariffs and quotas"
+    ],
+    "solution": "Taxes and spending",
+    "reference": "Page 124",
+    "reference_quote": "Fiscal policy refers to the government's decisions about how much to tax and spend."
+  },
+  {
+    "id": 22,
+    "difficulty": "Medium",
+    "question": "According to the classical model, what would happen if there was an excess supply of labor?",
+    "choices": [
+      "Wages would fall, clearing the market",
+      "Demand would naturally increase to match supply",
+      "The government would need to increase spending",
+      "Prices would rise to compensate"
+    ],
+    "solution": "Wages would fall, clearing the market",
+    "reference": "Page 125",
+    "reference_quote": "classical supply and demand analysis assumed that an excess supply of labor would drive down wages to a new equilibrium level."
+  },
+  {
+    "id": 23,
+    "difficulty": "Medium",
+    "question": "Who wrote 'The General Theory of Employment, Interest and Money'?",
+    "choices": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Friedrich Hayek"
+    ],
+    "solution": "John Maynard Keynes",
+    "reference": "Page 125",
+    "reference_quote": "The General Theory of Employment, Interest and Money, by John Maynard Keynes, was published in 1936."
+  },
+  {
+    "id": 24,
+    "difficulty": "Medium",
+    "question": "The Employment Act of 1946 established which advisory body?",
+    "choices": [
+      "The Federal Reserve Open Market Committee",
+      "The Council of Economic Advisers",
+      "The Congressional Budget Office",
+      "The National Economic Council"
+    ],
+    "solution": "The Council of Economic Advisers",
+    "reference": "Page 125",
+    "reference_quote": "This act established the President's Council of Economic Advisers, a group of economists who advise the president on economic issues."
+  },
+  {
+    "id": 25,
+    "difficulty": "Medium",
+    "question": "The phrase 'fine-tuning' in the 1960s referred to the government's role in:",
+    "choices": [
+      "Precisely controlling the money supply",
+      "Balancing the federal budget exactly",
+      "Regulating inflation and unemployment",
+      "Managing exchange rates"
+    ],
+    "solution": "Regulating inflation and unemployment",
+    "reference": "Page 125",
+    "reference_quote": "alluded to fine-tuning as the government's role in regulating inflation and unemployment."
+  },
+  {
+    "id": 26,
+    "difficulty": "Medium",
+    "question": "Stagflation is defined as a situation with:",
+    "choices": [
+      "High inflation and economic expansion",
+      "Low inflation and high unemployment",
+      "High inflation and high unemployment",
+      "Deflation and economic contraction"
+    ],
+    "solution": "High inflation and high unemployment",
+    "reference": "Page 127",
+    "reference_quote": "Stagflation is defined as a situation in which there is high inflation at the same time there are slow or negative output growth and high unemployment."
+  },
+  {
+    "id": 27,
+    "difficulty": "Medium",
+    "question": "Promissory notes issued by the federal government when it borrows money are called:",
+    "choices": [
+      "Federal Reserve Notes",
+      "Treasury bonds, notes, or bills",
+      "Municipal bonds",
+      "Sovereign Debentures"
+    ],
+    "solution": "Treasury bonds, notes, or bills",
+    "reference": "Page 124",
+    "reference_quote": "When the federal government borrows, it issues 'promises' called Treasury bonds, notes, or bills."
+  },
+  {
+    "id": 28,
+    "difficulty": "Medium",
+    "question": "When the government's revenue is less than its payments, the government is:",
+    "choices": [
+      "In default",
+      "Dissaving",
+      "Devaluing",
+      "Leaking"
+    ],
+    "solution": "Dissaving",
+    "reference": "Page 123",
+    "reference_quote": "If the government's revenue is less than its payments, the government is dissaving."
+  },
+  {
+    "id": 29,
+    "difficulty": "Medium",
+    "question": "Purchases of domestically made goods and services by foreigners are known as:",
+    "choices": [
+      "Imports",
+      "Exports",
+      "Net Factor Income",
+      "Trade Deficits"
+    ],
+    "solution": "Exports",
+    "reference": "Page 123",
+    "reference_quote": "people in foreign countries purchase exports goods and services produced by domestic firms"
+  },
+  {
+    "id": 30,
+    "difficulty": "Medium",
+    "question": "A capital gain occurs when:",
+    "choices": [
+      "A firm declares a profit",
+      "The value of an asset increases",
+      "A bond pays out interest",
+      "Dividends are reinvested"
+    ],
+    "solution": "The value of an asset increases",
+    "reference": "Page 124",
+    "reference_quote": "If the firm does well, the value of the stock increases and the stockholder receives a capital gain on the initial purchase."
+  },
+  {
+    "id": 31,
+    "difficulty": "Medium",
+    "question": "Which economist is associated with the concept of 'fine-tuning' in the 1960s?",
+    "choices": [
+      "John Maynard Keynes",
+      "Walter Heller",
+      "Paul Samuelson",
+      "Milton Friedman"
+    ],
+    "solution": "Walter Heller",
+    "reference": "Page 125",
+    "reference_quote": "Walter Heller... alluded to fine-tuning as the government's role in regulating inflation and unemployment."
+  },
+  {
+    "id": 32,
+    "difficulty": "Medium",
+    "question": "Which sector borrows by issuing corporate bonds?",
+    "choices": [
+      "Households",
+      "The Government",
+      "Firms",
+      "Financial Intermediaries"
+    ],
+    "solution": "Firms",
+    "reference": "Page 124",
+    "reference_quote": "Firms can borrow from banks, or in the case of corporations, they can issue corporate bonds."
+  },
+  {
+    "id": 33,
+    "difficulty": "Hard",
+    "question": "In the severe recession of 1980-1982, the unemployment rate reached a peak of:",
+    "choices": [
+      "8.8 percent",
+      "9.9 percent",
+      "10.7 percent",
+      "12.1 percent"
+    ],
+    "solution": "10.7 percent",
+    "reference": "Page 128",
+    "reference_quote": "During the 1980-1982 recession, it reached a maximum of 10.7 percent in the fourth quarter of 1982."
+  },
+  {
+    "id": 34,
+    "difficulty": "Hard",
+    "question": "The U.S. inflation rate peaked at 11.1 percent during which quarter?",
+    "choices": [
+      "1975 I",
+      "1979 II",
+      "1974 IV",
+      "1981 I"
+    ],
+    "solution": "1975 I",
+    "reference": "Page 128",
+    "reference_quote": "the inflation rate peaked at 11.1 percent in the first quarter of 1975."
+  },
+  {
+    "id": 35,
+    "difficulty": "Hard",
+    "question": "According to the text, how many recessions has the U.S. economy experienced since 1970 (up to 2017)?",
+    "choices": [
+      "Three",
+      "Four",
+      "Five",
+      "Seven"
+    ],
+    "solution": "Five",
+    "reference": "Page 127",
+    "reference_quote": "Since 1970, the U.S. economy has experienced five recessions"
+  },
+  {
+    "id": 36,
+    "difficulty": "Hard",
+    "question": "In which year was John Maynard Keynes's 'The General Theory' published?",
+    "choices": [
+      "1929",
+      "1932",
+      "1936",
+      "1939"
+    ],
+    "solution": "1936",
+    "reference": "Page 125",
+    "reference_quote": "The General Theory of Employment, Interest and Money, by John Maynard Keynes, was published in 1936."
+  },
+  {
+    "id": 37,
+    "difficulty": "Hard",
+    "question": "During the hyperinflation in Bolivia in 1984-1985, the price of one egg rose from 3,000 pesos to:",
+    "choices": [
+      "6,000 pesos",
+      "10,000 pesos",
+      "15,000 pesos",
+      "30,000 pesos"
+    ],
+    "solution": "10,000 pesos",
+    "reference": "Page 121",
+    "reference_quote": "During the hyperinflation in Bolivia in 1984 and 1985, the price of one egg rose from 3,000 pesos to 10,000 pesos in 1 week."
+  },
+  {
+    "id": 38,
+    "difficulty": "Hard",
+    "question": "The unemployment rate in the U.S. fell to what level by 2015?",
+    "choices": [
+      "4.9 percent",
+      "5.1 percent",
+      "5.5 percent",
+      "6.2 percent"
+    ],
+    "solution": "5.5 percent",
+    "reference": "Page 128",
+    "reference_quote": "By 2015 the unemployment rate was 5.5 percent."
+  },
+  {
+    "id": 39,
+    "difficulty": "Hard",
+    "question": "In December 2017, the inflation rate in which country reached 4,000 percent?",
+    "choices": [
+      "Zimbabwe",
+      "Turkey",
+      "Venezuela",
+      "Sudan"
+    ],
+    "solution": "Venezuela",
+    "reference": "Page 121",
+    "reference_quote": "In December 2017 the inflation rate in Venezuela reached 4,000 percent"
+  },
+  {
+    "id": 40,
+    "difficulty": "Hard",
+    "question": "What characterized the recovery from the 2008-2009 recession compared to previous ones?",
+    "choices": [
+      "It was unusually rapid",
+      "It was unusually slow",
+      "It was driven purely by exports",
+      "It resulted in immediate deflation"
+    ],
+    "solution": "It was unusually slow",
+    "reference": "Page 120",
+    "reference_quote": "Finally, note that the recovery from the 2008-2009 recession was unusually slow."
+  },
+  {
+    "id": 41,
+    "difficulty": "Hard",
+    "question": "The second high inflation period in the U.S. since 1970 occurred during:",
+    "choices": [
+      "1973-1975",
+      "1979-1981",
+      "1981-1983",
+      "2007-2009"
+    ],
+    "solution": "1979-1981",
+    "reference": "Page 128",
+    "reference_quote": "The two high inflation periods are 1973 IV-1975 IV and 1979 1-1981 IV"
+  },
+  {
+    "id": 42,
+    "difficulty": "Hard",
+    "question": "In the Great Depression, unemployment remained above 14 percent until which year?",
+    "choices": [
+      "1935",
+      "1938",
+      "1940",
+      "1942"
+    ],
+    "solution": "1940",
+    "reference": "Page 125",
+    "reference_quote": "Unemployment remained above 14 percent of the labor force until 1940."
+  },
+  {
+    "id": 43,
+    "difficulty": "Hard",
+    "question": "Aggregate output actually increased during the Depression years between:",
+    "choices": [
+      "1929 and 1931",
+      "1933 and 1937",
+      "1930 and 1935",
+      "1938 and 1941"
+    ],
+    "solution": "1933 and 1937",
+    "reference": "Page 120",
+    "reference_quote": "aggregate output actually increased in the Depression years between 1933 and 1937"
+  },
+  {
+    "id": 44,
+    "difficulty": "Hard",
+    "question": "The recession of 1974-1975 saw the unemployment rate peak at:",
+    "choices": [
+      "7.9 percent",
+      "8.8 percent",
+      "9.2 percent",
+      "10.1 percent"
+    ],
+    "solution": "8.8 percent",
+    "reference": "Page 128",
+    "reference_quote": "In the 1974-1975 recession, the unemployment rate reached a maximum of 8.8 percent in the second quarter of 1975."
+  },
+  {
+    "id": 45,
+    "difficulty": "Hard",
+    "question": "Which U.S. recession ended in June 2009 according to the NBER?",
+    "choices": [
+      "The Dot-com recession",
+      "The Subprime recession",
+      "The 2008-2009 recession",
+      "The Great Depression"
+    ],
+    "solution": "The 2008-2009 recession",
+    "reference": "Page 127",
+    "reference_quote": "In September 2010 it [NBER] declared that the recession ended in June 2009."
+  },
+  {
+    "id": 46,
+    "difficulty": "Hard",
+    "question": "Since 1992, the U.S. inflation rate has generally hovered between:",
+    "choices": [
+      "0 and 2 percent",
+      "1 and 3 percent",
+      "2 and 4 percent",
+      "3 and 5 percent"
+    ],
+    "solution": "1 and 3 percent",
+    "reference": "Page 128",
+    "reference_quote": "Since 1992, it has been between about 1 and 3 percent."
+  },
+  {
+    "id": 47,
+    "difficulty": "Hard",
+    "question": "In the circular flow, what is the 'leakage' that withdraws purchasing power?",
+    "choices": [
+      "Consumption",
+      "Government spending",
+      "Exports",
+      "Saving"
+    ],
+    "solution": "Saving",
+    "reference": "Page 123",
+    "reference_quote": "Saving by households is sometimes termed a 'leakage' from the circular flow because it withdraws income, or current purchasing power, from the system."
+  },
+  {
+    "id": 48,
+    "difficulty": "Hard",
+    "question": "Who replaced Janet Yellen as chair of the Federal Reserve in 2018?",
+    "choices": [
+      "Timothy Geithner",
+      "Ben Bernanke",
+      "Jerome Powell",
+      "Mario Draghi"
+    ],
+    "solution": "Jerome Powell",
+    "reference": "Page 124",
+    "reference_quote": "The chair of the Federal Reserve, currently Jerome Powell who replaced Janet Yellen in 2018"
+  },
+  {
+    "id": 49,
+    "difficulty": "Hard",
+    "question": "Before the Great Depression, the dominant economic models applied were:",
+    "choices": [
+      "Keynesian models",
+      "Classical or market clearing models",
+      "Institutionalist models",
+      "Behavioral models"
+    ],
+    "solution": "Classical or market clearing models",
+    "reference": "Page 125",
+    "reference_quote": "Before the Great Depression, economists applied microeconomic models, sometimes referred to as 'classical' or 'market clearing' models"
+  },
+  {
+    "id": 50,
+    "difficulty": "Hard",
+    "question": "In the 1980-1982 recession, inflation peaked at 10.2 percent in:",
+    "choices": [
+      "1980 IV",
+      "1980 II",
+      "1981 I",
+      "1981 III"
+    ],
+    "solution": "1981 I",
+    "reference": "Page 128",
+    "reference_quote": "In the second high inflation period, inflation peaked at 10.2 percent in the first quarter of 1981."
+  }
+]
