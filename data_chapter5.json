@@ -450,253 +450,253 @@
   {
     "id": 33,
     "difficulty": "Hard",
-    "question": "In the severe recession of 1980-1982, the unemployment rate reached a peak of:",
+    "question": "According to macroeconomists, what is the primary consequence of 'sticky prices' in the labor market?",
     "choices": [
-      "8.8 percent",
-      "9.9 percent",
-      "10.7 percent",
-      "12.1 percent"
+      "Wages adjust instantly to equilibrium",
+      "Quantity of labor supplied exceeds quantity demanded",
+      "Labor demand always exceeds labor supply",
+      "The market clears rapidly during recessions"
     ],
-    "solution": "10.7 percent",
-    "reference": "Page 128",
-    "reference_quote": "During the 1980-1982 recession, it reached a maximum of 10.7 percent in the fourth quarter of 1982."
+    "solution": "Quantity of labor supplied exceeds quantity demanded",
+    "reference": "Page 119",
+    "reference_quote": "macroeconomists... examine periods of high unemployment, where the quantity of labor supplied appears to exceed the quantity of labor demanded."
   },
   {
     "id": 34,
     "difficulty": "Hard",
-    "question": "The U.S. inflation rate peaked at 11.1 percent during which quarter?",
+    "question": "In the context of the business cycle, how can an economy be 'growing' while aggregate output is still considered 'low'?",
     "choices": [
-      "1975 I",
-      "1979 II",
-      "1974 IV",
-      "1981 I"
+      "The rate of change is positive, but the level is near a trough",
+      "The rate of change is negative, but the level is near a peak",
+      "Aggregate output is unrelated to growth rates",
+      "The economy is in a depression, so growth is impossible"
     ],
-    "solution": "1975 I",
-    "reference": "Page 128",
-    "reference_quote": "the inflation rate peaked at 11.1 percent in the first quarter of 1975."
+    "solution": "The rate of change is positive, but the level is near a trough",
+    "reference": "Page 120",
+    "reference_quote": "If the economy has just left a trough... it will be growing (rate of change is positive), but its level of output will still be low."
   },
   {
     "id": 35,
     "difficulty": "Hard",
-    "question": "According to the text, how many recessions has the U.S. economy experienced since 1970 (up to 2017)?",
+    "question": "What distinguishes a 'depression' from a typical 'recession'?",
     "choices": [
-      "Three",
-      "Four",
-      "Five",
-      "Seven"
+      "A depression is a short-term dip in output",
+      "A depression is defined by deflation only",
+      "A depression is a prolonged and deep recession",
+      "A depression only occurs after a war"
     ],
-    "solution": "Five",
-    "reference": "Page 127",
-    "reference_quote": "Since 1970, the U.S. economy has experienced five recessions"
+    "solution": "A depression is a prolonged and deep recession",
+    "reference": "Page 120",
+    "reference_quote": "A prolonged and deep recession is called a depression"
   },
   {
     "id": 36,
     "difficulty": "Hard",
-    "question": "In which year was John Maynard Keynes's 'The General Theory' published?",
+    "question": "Why are 'transfer payments' considered distinct from other government expenditures in the circular flow?",
     "choices": [
-      "1929",
-      "1932",
-      "1936",
-      "1939"
+      "They are payments for foreign goods",
+      "Recipients do not supply goods or services in exchange",
+      "They are only paid to corporations",
+      "They are not subject to any taxes"
     ],
-    "solution": "1936",
-    "reference": "Page 125",
-    "reference_quote": "The General Theory of Employment, Interest and Money, by John Maynard Keynes, was published in 1936."
+    "solution": "Recipients do not supply goods or services in exchange",
+    "reference": "Page 122",
+    "reference_quote": "payments from the government (for which the recipients do not supply goods, services, or labor) transfer payments."
   },
   {
     "id": 37,
     "difficulty": "Hard",
-    "question": "During the hyperinflation in Bolivia in 1984-1985, the price of one egg rose from 3,000 pesos to:",
+    "question": "In the circular flow model, if households spend less than their total receipts, what is the immediate economic classification of the difference?",
     "choices": [
-      "6,000 pesos",
-      "10,000 pesos",
-      "15,000 pesos",
-      "30,000 pesos"
+      "Investment",
+      "Leakage",
+      "Deficit",
+      "Consumption"
     ],
-    "solution": "10,000 pesos",
-    "reference": "Page 121",
-    "reference_quote": "During the hyperinflation in Bolivia in 1984 and 1985, the price of one egg rose from 3,000 pesos to 10,000 pesos in 1 week."
-  },
-  {
-    "id": 38,
-    "difficulty": "Hard",
-    "question": "The unemployment rate in the U.S. fell to what level by 2015?",
-    "choices": [
-      "4.9 percent",
-      "5.1 percent",
-      "5.5 percent",
-      "6.2 percent"
-    ],
-    "solution": "5.5 percent",
-    "reference": "Page 128",
-    "reference_quote": "By 2015 the unemployment rate was 5.5 percent."
-  },
-  {
-    "id": 39,
-    "difficulty": "Hard",
-    "question": "In December 2017, the inflation rate in which country reached 4,000 percent?",
-    "choices": [
-      "Zimbabwe",
-      "Turkey",
-      "Venezuela",
-      "Sudan"
-    ],
-    "solution": "Venezuela",
-    "reference": "Page 121",
-    "reference_quote": "In December 2017 the inflation rate in Venezuela reached 4,000 percent"
-  },
-  {
-    "id": 40,
-    "difficulty": "Hard",
-    "question": "What characterized the recovery from the 2008-2009 recession compared to previous ones?",
-    "choices": [
-      "It was unusually rapid",
-      "It was unusually slow",
-      "It was driven purely by exports",
-      "It resulted in immediate deflation"
-    ],
-    "solution": "It was unusually slow",
-    "reference": "Page 120",
-    "reference_quote": "Finally, note that the recovery from the 2008-2009 recession was unusually slow."
-  },
-  {
-    "id": 41,
-    "difficulty": "Hard",
-    "question": "The second high inflation period in the U.S. since 1970 occurred during:",
-    "choices": [
-      "1973-1975",
-      "1979-1981",
-      "1981-1983",
-      "2007-2009"
-    ],
-    "solution": "1979-1981",
-    "reference": "Page 128",
-    "reference_quote": "The two high inflation periods are 1973 IV-1975 IV and 1979 1-1981 IV"
-  },
-  {
-    "id": 42,
-    "difficulty": "Hard",
-    "question": "In the Great Depression, unemployment remained above 14 percent until which year?",
-    "choices": [
-      "1935",
-      "1938",
-      "1940",
-      "1942"
-    ],
-    "solution": "1940",
-    "reference": "Page 125",
-    "reference_quote": "Unemployment remained above 14 percent of the labor force until 1940."
-  },
-  {
-    "id": 43,
-    "difficulty": "Hard",
-    "question": "Aggregate output actually increased during the Depression years between:",
-    "choices": [
-      "1929 and 1931",
-      "1933 and 1937",
-      "1930 and 1935",
-      "1938 and 1941"
-    ],
-    "solution": "1933 and 1937",
-    "reference": "Page 120",
-    "reference_quote": "aggregate output actually increased in the Depression years between 1933 and 1937"
-  },
-  {
-    "id": 44,
-    "difficulty": "Hard",
-    "question": "The recession of 1974-1975 saw the unemployment rate peak at:",
-    "choices": [
-      "7.9 percent",
-      "8.8 percent",
-      "9.2 percent",
-      "10.1 percent"
-    ],
-    "solution": "8.8 percent",
-    "reference": "Page 128",
-    "reference_quote": "In the 1974-1975 recession, the unemployment rate reached a maximum of 8.8 percent in the second quarter of 1975."
-  },
-  {
-    "id": 45,
-    "difficulty": "Hard",
-    "question": "Which U.S. recession ended in June 2009 according to the NBER?",
-    "choices": [
-      "The Dot-com recession",
-      "The Subprime recession",
-      "The 2008-2009 recession",
-      "The Great Depression"
-    ],
-    "solution": "The 2008-2009 recession",
-    "reference": "Page 127",
-    "reference_quote": "In September 2010 it [NBER] declared that the recession ended in June 2009."
-  },
-  {
-    "id": 46,
-    "difficulty": "Hard",
-    "question": "Since 1992, the U.S. inflation rate has generally hovered between:",
-    "choices": [
-      "0 and 2 percent",
-      "1 and 3 percent",
-      "2 and 4 percent",
-      "3 and 5 percent"
-    ],
-    "solution": "1 and 3 percent",
-    "reference": "Page 128",
-    "reference_quote": "Since 1992, it has been between about 1 and 3 percent."
-  },
-  {
-    "id": 47,
-    "difficulty": "Hard",
-    "question": "In the circular flow, what is the 'leakage' that withdraws purchasing power?",
-    "choices": [
-      "Consumption",
-      "Government spending",
-      "Exports",
-      "Saving"
-    ],
-    "solution": "Saving",
+    "solution": "Leakage",
     "reference": "Page 123",
     "reference_quote": "Saving by households is sometimes termed a 'leakage' from the circular flow because it withdraws income, or current purchasing power, from the system."
   },
   {
+    "id": 38,
+    "difficulty": "Hard",
+    "question": "What determines the specific interest rate on a loan, given that there is no single interest rate in the economy?",
+    "choices": [
+      "The federal tax rate and the borrower's income",
+      "The length of the loan and the perceived risk to the lender",
+      "The global exchange rate and gold prices",
+      "The stock market performance and dividend yields"
+    ],
+    "solution": "The length of the loan and the perceived risk to the lender",
+    "reference": "Page 124",
+    "reference_quote": "the interest rate on a given loan reflects the length of the loan and the perceived risk to the lender."
+  },
+  {
+    "id": 39,
+    "difficulty": "Hard",
+    "question": "What is the defining characteristic of a 'capital gain' on a share of stock?",
+    "choices": [
+      "It is the quarterly cash payment from profits",
+      "It is the interest paid on the stock's face value",
+      "It is the increase in the value of the asset",
+      "It is the tax credit received for holding the stock"
+    ],
+    "solution": "It is the increase in the value of the asset",
+    "reference": "Page 124",
+    "reference_quote": "A capital gain occurs whenever the value of an asset increases."
+  },
+  {
+    "id": 40,
+    "difficulty": "Hard",
+    "question": "Which of the following actions represents an 'expansionary fiscal policy'?",
+    "choices": [
+      "Raising taxes to balance the budget",
+      "Cutting government spending to reduce debt",
+      "Cutting taxes or increasing government spending",
+      "Raising interest rates to curb inflation"
+    ],
+    "solution": "Cutting taxes or increasing government spending",
+    "reference": "Page 124",
+    "reference_quote": "An expansionary fiscal policy is a policy in which taxes are cut or government spending increases."
+  },
+  {
+    "id": 41,
+    "difficulty": "Hard",
+    "question": "What is the primary instrument used by the Federal Reserve to conduct monetary policy?",
+    "choices": [
+      "Setting income tax rates",
+      "Controlling short-term interest rates",
+      "Managing the federal budget deficit",
+      "Regulating international trade tariffs"
+    ],
+    "solution": "Controlling short-term interest rates",
+    "reference": "Page 124",
+    "reference_quote": "The Fed, as it is usually called, controls short-term interest rates in the economy."
+  },
+  {
+    "id": 42,
+    "difficulty": "Hard",
+    "question": "Why did the phenomenon of 'stagflation' contradict earlier macroeconomic theories?",
+    "choices": [
+      "High inflation occurred during a period of prosperity",
+      "High inflation occurred simultaneously with high unemployment",
+      "Unemployment fell while prices remained stable",
+      "Output grew rapidly despite high taxes"
+    ],
+    "solution": "High inflation occurred simultaneously with high unemployment",
+    "reference": "Page 127",
+    "reference_quote": "Stagflation is defined as a situation in which there is high inflation at the same time there are slow or negative output growth and high unemployment. Until the 1970s, high inflation had been observed only in periods when the economy was prospering..."
+  },
+  {
+    "id": 43,
+    "difficulty": "Hard",
+    "question": "What is the 'fine-tuning' approach to macroeconomic policy?",
+    "choices": [
+      "Letting the market correct itself without intervention",
+      "Using government tools to regulate inflation and unemployment precisely",
+      "Focusing solely on long-term growth regardless of short-term fluctuations",
+      "Eliminating all government debt to stabilize the currency"
+    ],
+    "solution": "Using government tools to regulate inflation and unemployment precisely",
+    "reference": "Page 125",
+    "reference_quote": "alluded to fine-tuning as the government's role in regulating inflation and unemployment."
+  },
+  {
+    "id": 44,
+    "difficulty": "Hard",
+    "question": "Why is some level of unemployment considered 'inevitable' even in a healthy economy?",
+    "choices": [
+      "Labor unions restrict the supply of workers",
+      "Minimum wage laws prevent market clearing",
+      "Adjustments in labor markets take time (frictional unemployment)",
+      "Technological progress makes human labor obsolete"
+    ],
+    "solution": "Adjustments in labor markets take time (frictional unemployment)",
+    "reference": "Page 121",
+    "reference_quote": "Part of the answer... adjustments in labor markets generally take some time... employees... typically are not able to find new jobs immediately"
+  },
+  {
+    "id": 45,
+    "difficulty": "Hard",
+    "question": "In the circular flow, what must happen for the government to be considered 'dissaving'?",
+    "choices": [
+      "Its revenue exceeds its payments",
+      "Its payments exceed its revenue",
+      "It stops issuing Treasury bonds",
+      "It increases taxes on households"
+    ],
+    "solution": "Its payments exceed its revenue",
+    "reference": "Page 123",
+    "reference_quote": "If the government's revenue is less than its payments, the government is dissaving."
+  },
+  {
+    "id": 46,
+    "difficulty": "Hard",
+    "question": "What is the fundamental difference between a corporate bond and a share of stock?",
+    "choices": [
+      "A bond is ownership; a stock is a debt",
+      "A bond is a promise to repay a loan; a stock is a share of ownership",
+      "A bond pays dividends; a stock pays interest",
+      "A bond has variable value; a stock has fixed value"
+    ],
+    "solution": "A bond is a promise to repay a loan; a stock is a share of ownership",
+    "reference": "Page 124",
+    "reference_quote": "bonds are simply contracts... I agree to loan you... stock is a financial instrument that gives the holder a share in the firm's ownership"
+  },
+  {
+    "id": 47,
+    "difficulty": "Hard",
+    "question": "How does the Microeconomic view of labor markets differ from the Macroeconomic view regarding unemployment?",
+    "choices": [
+      "Microeconomics sees prices as sticky; Macroeconomics sees them as flexible",
+      "Microeconomics assumes excess supply drives wages down; Macroeconomics observes persistent excess supply",
+      "Microeconomics focuses on total employment; Macroeconomics focuses on individual firms",
+      "Microeconomics ignores labor demand; Macroeconomics ignores labor supply"
+    ],
+    "solution": "Microeconomics assumes excess supply drives wages down; Macroeconomics observes persistent excess supply",
+    "reference": "Page 119",
+    "reference_quote": "Microeconomists do not expect to see the quantity... exceeding... demanded because the price... is not sticky. ... Macroeconomists... examine periods of high unemployment, where the quantity of labor supplied appears to exceed..."
+  },
+  {
     "id": 48,
     "difficulty": "Hard",
-    "question": "Who replaced Janet Yellen as chair of the Federal Reserve in 2018?",
+    "question": "What is the opportunity cost implication of holding a 'promissory note' or bond?",
     "choices": [
-      "Timothy Geithner",
-      "Ben Bernanke",
-      "Jerome Powell",
-      "Mario Draghi"
+      "The holder gives up current purchasing power for future repayment plus interest",
+      "The holder gains immediate voting rights in the company",
+      "The holder loses the principal amount forever",
+      "The holder avoids all financial risk"
     ],
-    "solution": "Jerome Powell",
+    "solution": "The holder gives up current purchasing power for future repayment plus interest",
     "reference": "Page 124",
-    "reference_quote": "The chair of the Federal Reserve, currently Jerome Powell who replaced Janet Yellen in 2018"
+    "reference_quote": "I agree to loan you a certain amount, and you agree to repay me this amount plus something extra at some future date"
   },
   {
     "id": 49,
     "difficulty": "Hard",
-    "question": "Before the Great Depression, the dominant economic models applied were:",
+    "question": "Why is saving termed a 'leakage' in the circular flow diagram?",
     "choices": [
-      "Keynesian models",
-      "Classical or market clearing models",
-      "Institutionalist models",
-      "Behavioral models"
+      "It represents money lost to foreign markets",
+      "It withdraws income or current purchasing power from the system",
+      "It indicates a loss of confidence in the banking system",
+      "It reduces the government's tax revenue directly"
     ],
-    "solution": "Classical or market clearing models",
-    "reference": "Page 125",
-    "reference_quote": "Before the Great Depression, economists applied microeconomic models, sometimes referred to as 'classical' or 'market clearing' models"
+    "solution": "It withdraws income or current purchasing power from the system",
+    "reference": "Page 123",
+    "reference_quote": "Saving by households is sometimes termed a 'leakage' from the circular flow because it withdraws income, or current purchasing power, from the system."
   },
   {
     "id": 50,
     "difficulty": "Hard",
-    "question": "In the 1980-1982 recession, inflation peaked at 10.2 percent in:",
+    "question": "What is the primary theoretical challenge in achieving the three goals of macroeconomics (growth, low unemployment, low inflation) simultaneously?",
     "choices": [
-      "1980 IV",
-      "1980 II",
-      "1981 I",
-      "1981 III"
+      "They are all unrelated to each other",
+      "They may conflict with one another",
+      "They require eliminating the private sector",
+      "They can only be achieved during a depression"
     ],
-    "solution": "1981 I",
-    "reference": "Page 128",
-    "reference_quote": "In the second high inflation period, inflation peaked at 10.2 percent in the first quarter of 1981."
+    "solution": "They may conflict with one another",
+    "reference": "Page 119",
+    "reference_quote": "We will see that these goals may conflict with one another and that an important point in understanding macroeconomics is understanding these conflicts."
   }
 ]
