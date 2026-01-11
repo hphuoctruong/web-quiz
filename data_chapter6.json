@@ -1,0 +1,448 @@
+[
+  {
+    "id": 1,
+    "difficulty": "Easy",
+    "question": "Which of the following best defines Gross Domestic Product (GDP)?",
+    "choices": [
+      "The total value of all goods produced by a country's citizens, regardless of where they live.",
+      "The total market value of all final goods and services produced within a country in a given period.",
+      "The total income earned by the government through taxes.",
+      "The value of all goods produced, including intermediate goods used to make other products."
+    ],
+    "solution": "The total market value of all final goods and services produced within a country in a given period.",
+    "explanation": "GDP is defined by location ('domestic') and finality. It counts production within a country's borders and only counts final goods to avoid double-counting the value of intermediate parts.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 2,
+    "difficulty": "Easy",
+    "question": "True or False: The value of tires sold to General Motors to be put on a new car is counted directly in GDP as a separate item from the car itself.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "solution": "False",
+    "explanation": "The tires are 'intermediate goods.' Their value is already bundled into the final price of the car. Counting them separately would be 'double counting.'",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 3,
+    "difficulty": "Easy",
+    "question": "Why are simple purchases of stocks and bonds excluded from GDP calculations?",
+    "choices": [
+      "Because they are considered \"intermediate goods.\"",
+      "Because the government cannot track them accurately.",
+      "Because they represent transfers of ownership, not the production of new goods or services.",
+      "Because they are part of the \"underground economy.\""
+    ],
+    "solution": "Because they represent transfers of ownership, not the production of new goods or services.",
+    "explanation": "Buying a stock is just swapping assets (cash for a share of ownership). No new good or service was created or produced in that transaction, so it does not add to the Gross Domestic Product.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 4,
+    "difficulty": "Easy",
+    "question": "In the context of the National Income and Product Accounts, which of the following counts as \"Gross Private Domestic Investment\" ($I$)?",
+    "choices": [
+      "A household buying a new home.",
+      "A grandmother buying 100 shares of Google stock.",
+      "A student depositing money into a savings account.",
+      "A collector buying an antique painting."
+    ],
+    "solution": "A household buying a new home.",
+    "explanation": "In economics, 'investment' refers to the creation of new capital (housing, plants, equipment, and inventory). Buying stocks or antiques is a financial transfer or a purchase of used goods, not the creation of new capital.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 5,
+    "difficulty": "Easy",
+    "question": "Which of the following is an example of \"Government Consumption and Gross Investment\" ($G$) included in GDP?",
+    "choices": [
+      "The government paying a social security check to a retiree.",
+      "The government buying a new fighter jet for the Air Force.",
+      "The government paying interest on the national debt.",
+      "A state government paying unemployment benefits."
+    ],
+    "solution": "The government buying a new fighter jet for the Air Force.",
+    "explanation": "Payments like Social Security or unemployment are 'transfer payments'—money moved from the government to individuals without a new good or service being produced in return. Only the purchase of the jet ($B$) represents government purchase of a newly produced good.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 6,
+    "difficulty": "Easy",
+    "question": "Why is a stay-at-home parent's childcare services not counted in GDP, while a paid nanny's services are?",
+    "choices": [
+      "Because the parent's work is not \"productive\" in an economic sense.",
+      "Because it is too difficult to measure the market value of services performed within the household.",
+      "Because household work is considered a \"financial transaction.\"",
+      "Because the government does not value parenting."
+    ],
+    "solution": "Because it is too difficult to measure the market value of services performed within the household.",
+    "explanation": "While household labor is productive, it is excluded because there is no market transaction to track. It is difficult to accurately estimate the market value of services provided within the home compared to services with a clear paycheck/receipt.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 7,
+    "difficulty": "Easy",
+    "question": "True or False: If a real estate agent sells a house built in 1990 for $500,000 this year, the entire $500,000 is added to this year's GDP.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "solution": "False",
+    "explanation": "The house was produced in 1990, so its value was counted in 1990's GDP. Reselling it is just a transfer of an asset. (Note: The real estate agent's commission fee would count in this year's GDP as a service, but not the house price).",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 8,
+    "difficulty": "Medium",
+    "question": "The NIPA framework (National Income and Product Accounts) was originally created in the 1930s in response to which major event?",
+    "choices": [
+      "The need to track the Gold Standard.",
+      "The Great Depression, as policymakers lacked data to understand the economic collapse.",
+      "The Cold War, to compare U.S. output with the Soviet Union.",
+      "The invention of the computer, which made calculation possible."
+    ],
+    "solution": "The Great Depression, as policymakers lacked data to understand the economic collapse.",
+    "explanation": "Before the 1930s, the government had only 'fragmentary' statistics. The NIPA framework was commissioned to give presidents (like Hoover and FDR) a 'wiring diagram' of the economy to guide recovery.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 9,
+    "difficulty": "Easy",
+    "question": "In the expenditure approach ($GDP = C + I + G + (EX - IM)$), why do we subtract Imports ($IM$)?",
+    "choices": [
+      "Because imports are bad for the economy.",
+      "Because imports are goods consumed in our country but produced in another country, so they shouldn't count in our domestic production.",
+      "Because the government loses money on imports.",
+      "Because imports are always intermediate goods."
+    ],
+    "solution": "Because imports are goods consumed in our country but produced in another country, so they shouldn't count in our domestic production.",
+    "explanation": "The terms $C$, $I$, and $G$ include spending on all goods, including foreign ones. Since GDP only measures domestic production, we must subtract the portion of spending that went to foreign producers (Imports) to isolate what was made locally.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 10,
+    "difficulty": "Easy",
+    "question": "If a U.S. company owns a factory in Vietnam, the profits from that factory are counted in:",
+    "choices": [
+      "U.S. GDP and Vietnam's GNP.",
+      "U.S. GNP and Vietnam's GDP.",
+      "U.S. GDP and U.S. GNP.",
+      "Vietnam's GDP and Vietnam's GNP."
+    ],
+    "solution": "U.S. GNP and Vietnam's GDP.",
+    "explanation": "GDP is based on location (Vietnam's soil → Vietnam's GDP). GNP is based on ownership (U.S. company → U.S. GNP).",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 11,
+    "difficulty": "Medium",
+    "question": "Simon Kuznets, the architect of the original national income accounts, famously warned Congress in 1934 that:",
+    "choices": [
+      "GDP would always undercount the value of technology.",
+      "The welfare of a nation can scarcely be inferred from a measure of national income.",
+      "Government spending should not be included in GDP.",
+      "Inflation would eventually render GDP useless."
+    ],
+    "solution": "The welfare of a nation can scarcely be inferred from a measure of national income.",
+    "explanation": "Kuznets explicitly warned that GDP measures activity/capacity, not well-being. A high GDP does not necessarily mean a happy or healthy society.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 12,
+    "difficulty": "Medium",
+    "question": "A local bakery buys flour, sugar, and eggs. A local household buys the same flour, sugar, and eggs. How does GDP treat these purchases?",
+    "choices": [
+      "Both are counted as Personal Consumption Expenditures ($C$).",
+      "The bakery's purchase is counted as Investment ($I$), and the household's purchase is Consumption ($C$).",
+      "The bakery's purchase is an intermediate good (excluded), while the household's purchase is a final good (included in $C$).",
+      "Both are excluded because they are raw materials, not finished meals."
+    ],
+    "solution": "The bakery's purchase is an intermediate good (excluded), while the household's purchase is a final good (included in $C$).",
+    "explanation": "The distinction depends on the user. For the household, the flour is the final product they consume. For the bakery, the flour is an input (intermediate good) to create bread. Counting the flour for the bakery and the bread would be double-counting.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 13,
+    "difficulty": "Medium",
+    "question": "If a country's Gross Private Domestic Investment is positive, but its Net Private Domestic Investment is negative, what does this physically imply about the economy?",
+    "choices": [
+      "The country is producing more capital goods than it is wearing out.",
+      "The total stock of capital (machines, buildings) is shrinking because depreciation exceeds new production.",
+      "The country is importing more than it is exporting.",
+      "The country is saving too much money and not spending enough."
+    ],
+    "solution": "The total stock of capital (machines, buildings) is shrinking because depreciation exceeds new production.",
+    "explanation": "Net Investment = Gross Investment - Depreciation. If Net Investment is negative, it means Depreciation (wear and tear) is larger than Gross Investment (new equipment). Therefore, the total value of the country's capital stock is declining.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 14,
+    "difficulty": "Hard",
+    "question": "A government spends $1 billion building a 'bridge to nowhere.' GDP rises by $1 billion ($G$), but citizens feel no better off. Which statement best explains this disconnect using the Income approach?",
+    "choices": [
+      "The spending was not adjusted for inflation.",
+      "The income generated ($1 billion) likely went to a specific group (contractors/suppliers) rather than broadly raising wages, while taxes or inflation may have lowered real income for others.",
+      "Infrastructure spending is never included in GDP calculations.",
+      "The bridge counts as a 'Durable Good' which is excluded from government statistics."
+    ],
+    "solution": "The income generated ($1 billion) likely went to a specific group (contractors/suppliers) rather than broadly raising wages, while taxes or inflation may have lowered real income for others.",
+    "explanation": "GDP records the transaction cost, not the utility. While the expenditure ($G$) adds to GDP, the corresponding income flows only to those building the bridge. If the project has no public utility, the average citizen sees no benefit but may pay the cost via taxes or inflation.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 15,
+    "difficulty": "Medium",
+    "question": "Sarah is a U.S. citizen working temporarily as a business consultant in Paris, France. Her earnings for the year are included in:",
+    "choices": [
+      "U.S. GDP and French GNP.",
+      "U.S. GNP and French GDP.",
+      "U.S. GDP and U.S. GNP.",
+      "French GDP and French GNP."
+    ],
+    "solution": "U.S. GNP and French GDP.",
+    "explanation": "GDP is location-based: She is working in France, so her production counts toward French GDP. GNP is ownership-based: She is a U.S. 'factor of production' (labor), so her earnings count toward U.S. GNP.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 16,
+    "difficulty": "Medium",
+    "question": "In 2023, a computer manufacturer produces $10 million worth of computers. They sell $9 million worth to customers and store the remaining $1 million worth in their warehouse. What is the contribution to 2023 GDP?",
+    "choices": [
+      "$9 million (only what was sold counts).",
+      "$10 million (recorded as $9M Consumption + $1M Investment).",
+      "$10 million (recorded as $10M Consumption).",
+      "$9 million (the $1M is carried over to 2024 GDP)."
+    ],
+    "solution": "$10 million (recorded as $9M Consumption + $1M Investment).",
+    "explanation": "GDP measures production. The $1 million unsold is treated as if the company 'bought' the inventory from itself. This is recorded as 'Change in Business Inventories,' which is a component of Investment ($I$).",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 17,
+    "difficulty": "Medium",
+    "question": "An oil spill occurs off the coast, requiring a massive $50 million cleanup operation paid for by the company. How does this affect GDP?",
+    "choices": [
+      "GDP decreases by $50 million to account for the environmental damage.",
+      "GDP is unaffected because cleaning up a mess isn't \"production.\"",
+      "GDP increases by $50 million because the cleanup services are a market transaction.",
+      "GDP stays the same, but Net National Product (NNP) decreases."
+    ],
+    "solution": "GDP increases by $50 million because the cleanup services are a market transaction.",
+    "explanation": "GDP measures market activity, not welfare. The hiring of crews and equipment to clean the spill is a purchase of services, so it increases GDP, even though the event itself was negative for society. This highlights a limitation of GDP.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 18,
+    "difficulty": "Medium",
+    "question": "Consider an economy with the following data: Consumption: $500, Exports: $50, Government Spending: $100, Investment: $150, Imports: $70. What is the GDP?",
+    "choices": [
+      "$870",
+      "$730",
+      "$800",
+      "$770"
+    ],
+    "solution": "$730",
+    "explanation": "Use the formula $GDP = C + I + G + (EX - IM)$. $500 + 150 + 100 + (50 - 70) = 750 - 20 = 730$. (Note: Net Exports are negative here).",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 19,
+    "difficulty": "Hard",
+    "question": "Why is a sharp drop in the consumption of \"Durable Goods\" (like cars and appliances) often considered a leading indicator of a recession?",
+    "choices": [
+      "Because durable goods are the cheapest category of consumption.",
+      "Because durable goods purchases are \"postponable\"; consumers delay them when they are worried about their future income.",
+      "Because durable goods are mostly imported, so a drop improves GDP.",
+      "Because the government taxes durable goods at a higher rate."
+    ],
+    "solution": "Because durable goods purchases are \"postponable\"; consumers delay them when they are worried about their future income.",
+    "explanation": "Unlike food or healthcare (nondurables/services), you can wait to buy a new car. If spending here drops, it signals that consumers are pessimistic or financially stressed, often predicting an economic downturn.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 20,
+    "difficulty": "Medium",
+    "question": "Why did the United States switch from using GNP to GDP as its primary economic metric in 1991?",
+    "choices": [
+      "To increase the reported number, as GDP was higher than GNP at the time.",
+      "To align with international standards and better track domestic economic activity (jobs/factories within U.S. borders).",
+      "Because the concept of \"National\" income was considered outdated.",
+      "To exclude the earnings of foreign companies operating in the U.S."
+    ],
+    "solution": "To align with international standards and better track domestic economic activity (jobs/factories within U.S. borders).",
+    "explanation": "Most of the world used GDP. The switch made comparison easier. Also, as foreign investment in the U.S. grew, policymakers needed a metric that reflected activity *inside* the U.S. (which affects local employment) rather than just ownership.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 21,
+    "difficulty": "Hard",
+    "question": "Imagine a severe hurricane hits the coast, destroying thousands of homes. In the aftermath, billions of dollars are spent on construction crews, materials, and cleanup services to rebuild. What is the likely effect on GDP and the standard of living?",
+    "choices": [
+      "GDP decreases significantly because wealth has been destroyed.",
+      "GDP increases due to the surge in reconstruction spending, implying the economy is \"better off\" despite the destruction.",
+      "GDP remains unchanged because the money spent on rebuilding was likely diverted from savings.",
+      "GDP decreases because the \"depreciation\" of the destroyed buildings is subtracted from the Gross Domestic Product."
+    ],
+    "solution": "GDP increases due to the surge in reconstruction spending, implying the economy is \"better off\" despite the destruction.",
+    "explanation": "This highlights a major flaw in GDP as a welfare measure. GDP measures activity, not wealth. The destruction isn't subtracted, but the rebuilding counts as new production. Thus, a disaster can perversely raise GDP, even though society has lost wealth.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 22,
+    "difficulty": "Hard",
+    "question": "A wealthy banker pays a personal chef $50,000 a year to cook his meals. Eventually, they fall in love and get married. The chef continues to cook the same meals, but the banker no longer pays a salary. How does this marriage affect GDP?",
+    "choices": [
+      "GDP stays the same because the production of meals hasn't changed.",
+      "GDP increases because the household is now more efficient.",
+      "GDP drops by $50,000 because a market transaction has become \"household production.\"",
+      "GDP drops, but is offset by an increase in the banker's \"imputed rent.\""
+    ],
+    "solution": "GDP drops by $50,000 because a market transaction has become \"household production.\"",
+    "explanation": "GDP only measures market transactions. When the service moves from the market (paid chef) to the household (spouse), it disappears from official GDP statistics, even though the actual economic output (the meals) remains the same.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 23,
+    "difficulty": "Hard",
+    "question": "In 2023, a manufacturer produces $1 million worth of furniture but stores it all in a warehouse (selling none). In 2024, they sell all of that furniture to consumers for $1 million. How is this recorded in 2024 GDP?",
+    "choices": [
+      "2024 GDP increases by $1 million (Consumption).",
+      "2024 GDP does not change.",
+      "2024 GDP increases by $1 million, and 2023 GDP is retroactively decreased.",
+      "2024 GDP increases by $1 million in Consumption, but decreases by $1 million in Investment (Inventory), resulting in no net change."
+    ],
+    "solution": "2024 GDP increases by $1 million in Consumption, but decreases by $1 million in Investment (Inventory), resulting in no net change.",
+    "explanation": "The production was counted in 2023 (as Inventory Investment). In 2024, when it is sold, Consumption ($C$) goes up, but Inventory Investment ($I$) goes down (a negative entry). The net effect on 2024 GDP is zero, ensuring the production is only counted once (in the year it was made).",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 24,
+    "difficulty": "Hard",
+    "question": "For years, the production of a specific drug was illegal and sold on the black market for $100 million annually. This year, the government legalizes the drug, and it is sold in stores for the same total amount ($100 million). What happens to measured GDP vs. actual economic production?",
+    "choices": [
+      "Both measured GDP and actual production increase by $100 million.",
+      "Measured GDP increases by $100 million, but actual economic production remains unchanged.",
+      "Measured GDP stays the same, but actual production drops.",
+      "Neither changes, because economists estimate illegal activity and include it in GDP anyway."
+    ],
+    "solution": "Measured GDP increases by $100 million, but actual economic production remains unchanged.",
+    "explanation": "GDP excludes the underground economy. When the activity becomes legal, it suddenly appears in the data ($C$). However, the actual volume of goods produced hasn't changed; only the measurement has. This implies GDP often understates the real size of economies with large black markets.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 25,
+    "difficulty": "Hard",
+    "question": "Country A and Country B have identical GDP per capita. However, in Country A, the average workweek is 30 hours, while in Country B, it is 60 hours. What does this discrepancy reveal about GDP as a measure of well-being?",
+    "choices": [
+      "Country B is twice as productive as Country A.",
+      "GDP overstates the well-being of Country B relative to Country A because it ignores the value of leisure time.",
+      "Country A must have a higher inflation rate.",
+      "GDP understates the well-being of Country B because hard work is a virtue."
+    ],
+    "solution": "GDP overstates the well-being of Country B relative to Country A because it ignores the value of leisure time.",
+    "explanation": "GDP measures output, not how hard people worked to generate it. Since leisure time is a desirable economic 'good' that isn't sold in markets, GDP ignores it. Country A produces the same output with half the labor, suggesting higher welfare/efficiency, which the raw GDP number fails to capture.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 26,
+    "difficulty": "Hard",
+    "question": "Why does the Bureau of Economic Analysis (BEA) impute a value for \"rental income\" for homeowners who live in their own houses?",
+    "choices": [
+      "To artificially inflate the GDP numbers to look better politically.",
+      "To treat homeowners as if they are renting the house to themselves, ensuring GDP doesn't drop just because someone buys their home instead of renting it.",
+      "To tax homeowners on income they didn't actually receive.",
+      "Because the maintenance costs of a home are considered \"investment.\""
+    ],
+    "solution": "To treat homeowners as if they are renting the house to themselves, ensuring GDP doesn't drop just because someone buys their home instead of renting it.",
+    "explanation": "If GDP only counted actual rent checks, a massive drop in GDP would occur if everyone suddenly bought the homes they were renting (since rent payments would vanish). To prevent this measurement quirk, homeowners are treated as businesses renting to themselves.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 27,
+    "difficulty": "Hard",
+    "question": "Gross National Product (GNP) is often much larger than Net National Product (NNP). The difference between these two numbers represents:",
+    "choices": [
+      "The value of exports minus imports.",
+      "The \"Capital Consumption Allowance\" (Depreciation)—the amount of capital worn out during the year.",
+      "The statistical discrepancy between the expenditure and income approaches.",
+      "The amount of taxes collected by the government."
+    ],
+    "solution": "The \"Capital Consumption Allowance\" (Depreciation)—the amount of capital worn out during the year.",
+    "explanation": "'Gross' means depreciation hasn't been subtracted. 'Net' means it has. NNP tells us how much we produced after setting aside enough resources to repair/replace the machines that wore out during production. NNP is arguably a better measure of 'sustainable' income than GNP.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 28,
+    "difficulty": "Hard",
+    "question": "An art dealer buys a 19th-century painting for $50,000. He spends $2,000 on a new frame and $1,000 on marketing. He then sells the painting for $60,000. How much is added to this year's GDP?",
+    "choices": [
+      "$60,000 (The final sale price).",
+      "$10,000 (The total profit).",
+      "$13,000 (The difference between the purchase and sale price).",
+      "$3,000 (The value of the new frame and marketing services only)."
+    ],
+    "solution": "$10,000 (The total profit).",
+    "explanation": "The painting itself ($50,000) is a used good and is excluded. However, the dealer provided a service (curating, framing, marketing). The value of this service is measured by the 'value added' or the dealer's margin: $60,000 (Sale) - $50,000 (Cost of old good) = $10,000.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 29,
+    "difficulty": "Hard",
+    "question": "If a country's Nominal GDP increases by 5% in 2024, but the overall price level also increases by 5%, what has happened to the actual production of goods and services (Real GDP)?",
+    "choices": [
+      "It has increased by 10%.",
+      "It has increased by 5%.",
+      "It has remained strictly unchanged.",
+      "It has decreased by 5%."
+    ],
+    "solution": "It has remained strictly unchanged.",
+    "explanation": "Nominal GDP measures value in current dollars ($Price \\times Quantity$). If prices rise by 5% and the total value rises by 5%, the Quantity (Real GDP) must have stayed the same. The rise in GDP was purely due to inflation, not increased output.",
+    "reference": "",
+    "reference_quote": ""
+  },
+  {
+    "id": 30,
+    "difficulty": "Hard",
+    "question": "Why are interest payments on the national debt excluded from the \"Government Spending\" ($G$) component of GDP, while the salary of a treasury official writing those checks is included?",
+    "choices": [
+      "Interest payments are too small to matter.",
+      "Interest payments are considered \"Transfer Payments\"—a return on a past financial asset, not a payment for a currently produced good or service.",
+      "Including interest would make the GDP number negative.",
+      "The salary of the official is considered a \"transfer payment,\" while the interest is \"consumption.\""
+    ],
+    "solution": "Interest payments are considered \"Transfer Payments\"—a return on a past financial asset, not a payment for a currently produced good or service.",
+    "explanation": "GDP requires a quid pro quo—money exchanged for a good or service. When the government pays a salary, it gets labor (a service). When it pays interest, it is simply fulfilling a financial obligation from the past; no new production is happening at that moment.",
+    "reference": "",
+    "reference_quote": ""
+  }
+]
