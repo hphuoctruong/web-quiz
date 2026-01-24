@@ -2,7 +2,7 @@
     {
         "id": 1,
         "difficulty": "Easy",
-        "question": "According to the Bureau of Labor Statistics (BLS), a person is classified as 'employed' if they:",
+        "question": "According to the Bureau of Labor Statistics (BLS), a person in the followings is classified as 'employed' if they:",
         "choices": [
             "Work at least 15 hours per week for pay.",
             "Are temporarily absent from their job due to vacation or illness.",
