@@ -72,7 +72,7 @@
     {
         "id": 6,
         "difficulty": "Easy",
-        "question": "Which category makes up the largest percentage of the CPI market basket shown in Figure 7.1?",
+        "question": "In the typical consumer market basket used to calculate the CPI, which category represents the largest share of spending?",
         "choices": [
             "Transportation",
             "Food and Beverages",
@@ -80,8 +80,8 @@
             "Medical Care"
         ],
         "solution": "Housing",
-        "explanation": "Direct recall from Figure 7.1: Housing comprises 42.4% of the market basket, which is the largest share (p. 158).",
-        "reference": "Chapter 7, Figure 7.1, p. 158"
+        "explanation": "Direct recall: The text and accompanying data indicate that Housing is the largest component of the market basket (typically comprising over 40% of the index).",
+        "reference": "Chapter 7, Section 7.2, p. 158"
     },
     {
         "id": 7,
