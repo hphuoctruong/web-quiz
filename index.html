@@ -481,6 +481,17 @@
             box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.02);
         }
 
+        .explanation-box {
+            background: rgba(16, 185, 129, 0.05);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.5;
+            border-left: 3px solid var(--correct);
+        }
+
         .answer-reveal.show {
             display: block;
             animation: fadeIn 0.3s ease;
@@ -768,6 +779,7 @@
             { id: 'ch2', title: 'Chapter 2: The Economic Problem', file: 'data_chapter2.json', icon: '⚖️' },
             { id: 'ch5', title: 'Chapter 5: Introduction to Macroeconomics', file: 'data_chapter5.json', icon: '🌍' },
             { id: 'ch6', title: 'Chapter 6: Measuring National Output and National Income', file: 'data_chapter6.json', icon: '📊' },
+            { id: 'ch7', title: 'Chapter 7: Unemployment, Inflation, and Growth', file: 'data_chapter7.json', icon: '📉' },
             { id: 'viet', title: 'Kinh tế học (Vietnamese)', file: 'data_vietnamese.json', icon: '🇻🇳' }
         ];
 
@@ -911,6 +923,7 @@
                     <div class="answer-reveal ${isAnswered ? 'show' : ''}" id="answer-${question.id}">
                         <div style="color: var(--correct); font-weight: 700; font-size: 0.8rem; margin-bottom: 0.5rem;">EXPLANATION & REFERENCE</div>
                         <div class="answer-text" style="font-weight: 800; color: var(--text-primary); margin-bottom: 0.75rem;">${question.solution}</div>
+                        ${question.explanation ? `<div class="explanation-box">${question.explanation}</div>` : ''}
                         ${question.reference_quote ? `<div class="quote-box">"${question.reference_quote}"</div>` : ''}
                         ${question.reference ? `<div class="reference-tag">Source: ${question.reference}</div>` : ''}
                     </div>

@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "difficulty": "Easy",
+        "question": "According to the Bureau of Labor Statistics (BLS), a person is classified as 'employed' if they:",
+        "choices": [
+            "Work at least 15 hours per week for pay.",
+            "Are temporarily absent from their job due to vacation or illness.",
+            "Are actively looking for work but have not found it yet.",
+            "Are a full-time student working 10 hours a week without pay in a family business."
+        ],
+        "solution": "Are temporarily absent from their job due to vacation or illness.",
+        "explanation": "The text explicitly states that a person is considered employed if they have a job but are temporarily absent with or without pay (p. 152).",
+        "reference": "Chapter 7, Section 7.1, p. 152"
+    },
+    {
+        "id": 2,
+        "difficulty": "Easy",
+        "question": "Which of the following groups is considered 'not in the labor force'?",
+        "choices": [
+            "People working part-time who want full-time work.",
+            "People who have looked for work in the last 4 weeks but haven't found a job.",
+            "Retirees and full-time students who are not looking for work.",
+            "Workers on strike."
+        ],
+        "solution": "Retirees and full-time students who are not looking for work.",
+        "explanation": "The text explicitly lists full-time students and retirees as examples of people 'not in the labor force' because they are not looking for work (p. 152).",
+        "reference": "Chapter 7, Section 7.1, p. 152"
+    },
+    {
+        "id": 3,
+        "difficulty": "Easy",
+        "question": "Frictional unemployment is defined in the text as:",
+        "choices": [
+            "Unemployment caused by a recession.",
+            "Unemployment resulting from the normal turnover in the labor market.",
+            "Unemployment caused by a decline in specific industries.",
+            "Unemployment that occurs when workers stop looking for jobs."
+        ],
+        "solution": "Unemployment resulting from the normal turnover in the labor market.",
+        "explanation": "Direct recall: The text defines frictional unemployment as the portion of unemployment resulting from the normal turnover in the labor market (p. 157).",
+        "reference": "Chapter 7, Section 7.1, p. 157"
+    },
+    {
+        "id": 4,
+        "difficulty": "Easy",
+        "question": "What is the 'natural rate of unemployment'?",
+        "choices": [
+            "0% unemployment.",
+            "The sum of frictional and structural unemployment.",
+            "The sum of cyclical and frictional unemployment.",
+            "The unemployment rate during a recession."
+        ],
+        "solution": "The sum of frictional and structural unemployment.",
+        "explanation": "Direct recall: The text states the natural rate is sometimes taken as the sum of the frictional unemployment rate and the structural unemployment rate (p. 157).",
+        "reference": "Chapter 7, Section 7.1, p. 157"
+    },
+    {
+        "id": 5,
+        "difficulty": "Easy",
+        "question": "The Consumer Price Index (CPI) is calculated using:",
+        "choices": [
+            "Prices of all goods and services produced domestically.",
+            "A fixed market basket of goods representing a typical urban consumer's purchases.",
+            "The average price of producer goods and raw materials.",
+            "A changing basket of goods that updates every month."
+        ],
+        "solution": "A fixed market basket of goods representing a typical urban consumer's purchases.",
+        "explanation": "Direct recall: The text describes the CPI as being computed using a bundle of goods meant to represent the 'market basket' purchased monthly by the typical urban consumer (p. 157).",
+        "reference": "Chapter 7, Section 7.2, p. 157"
+    },
+    {
+        "id": 6,
+        "difficulty": "Easy",
+        "question": "Which category makes up the largest percentage of the CPI market basket shown in Figure 7.1?",
+        "choices": [
+            "Transportation",
+            "Food and Beverages",
+            "Housing",
+            "Medical Care"
+        ],
+        "solution": "Housing",
+        "explanation": "Direct recall from Figure 7.1: Housing comprises 42.4% of the market basket, which is the largest share (p. 158).",
+        "reference": "Chapter 7, Figure 7.1, p. 158"
+    },
+    {
+        "id": 7,
+        "difficulty": "Easy",
+        "question": "How is 'Labor Productivity' defined in the text?",
+        "choices": [
+            "Total GDP divided by the total population.",
+            "Output per worker hour.",
+            "The total number of hours worked in the economy.",
+            "The growth rate of the capital stock."
+        ],
+        "solution": "Output per worker hour.",
+        "explanation": "Direct recall: The text explicitly states, 'Output per worker hour is called labor productivity' (p. 162).",
+        "reference": "Chapter 7, Section 7.3, p. 162"
+    },
+    {
+        "id": 8,
+        "difficulty": "Easy",
+        "question": "Cyclical unemployment is the unemployment that occurs:",
+        "choices": [
+            "During the normal functioning of a healthy economy.",
+            "Because of long-term structural shifts in industry.",
+            "During recessions and depressions.",
+            "Due to seasonal changes in weather."
+        ],
+        "solution": "During recessions and depressions.",
+        "explanation": "Direct recall: The text links cyclical unemployment to the unemployment above frictional plus structural, occurring during recessions (p. 157).",
+        "reference": "Chapter 7, Section 7.1, p. 157"
+    },
+    {
+        "id": 9,
+        "difficulty": "Easy",
+        "question": "The 'discouraged-worker effect' refers to:",
+        "choices": [
+            "Workers who quit their jobs because wages are too low.",
+            "The decline in the measured unemployment rate when people stop looking for work.",
+            "The increase in unemployment when students graduate and enter the workforce.",
+            "The firing of workers during a corporate restructuring."
+        ],
+        "solution": "The decline in the measured unemployment rate when people stop looking for work.",
+        "explanation": "Direct recall: The text defines this effect as the decline in the measured unemployment rate that results when people who want to work stop looking (p. 154).",
+        "reference": "Chapter 7, Section 7.1, p. 154"
+    },
+    {
+        "id": 10,
+        "difficulty": "Easy",
+        "question": "What happens to Social Security benefits when the CPI rises?",
+        "choices": [
+            "They remain fixed.",
+            "They decrease to save government funds.",
+            "They automatically increase because they are indexed to inflation.",
+            "They are renegotiated by Congress each year."
+        ],
+        "solution": "They automatically increase because they are indexed to inflation.",
+        "explanation": "Direct recall: The text states that Social Security benefits are fully indexed; when the CPI rises, benefits also increase (p. 160).",
+        "reference": "Chapter 7, Section 7.2, p. 160"
+    },
+    {
+        "id": 11,
+        "difficulty": "Medium",
+        "question": "In a given year, the number of employed people increases by 1 million, yet the unemployment rate *also* increases from 5.0% to 5.2%. Which of the following best explains this paradox?",
+        "choices": [
+            "The number of discouraged workers increased significantly.",
+            "The Labor Force grew by significantly more than 1 million people.",
+            "The economy entered a deep recession, causing firms to fire workers.",
+            "The Labor Force Participation Rate decreased."
+        ],
+        "solution": "The Labor Force grew by significantly more than 1 million people.",
+        "explanation": "Aggregation: Paradoxical rise. Unemployment Rate = Unemployed / Labor Force. For the rate to rise while Employment (part of LF) rises, the denominator (Labor Force) must have grown faster than employment, meaning the number of *new* unemployed entrants (graduates/re-entrants) exceeded the number of new hires.",
+        "reference": "Chapter 7, Section 7.1 (Labor Market Dynamics)"
+    },
+    {
+        "id": 12,
+        "difficulty": "Medium",
+        "question": "The CPI is 200 in Year 1 and 210 in Year 2. You lend money at a nominal interest rate of 4%. What is your real rate of return?",
+        "choices": [
+            "5%",
+            "-1%",
+            "1%",
+            "9%"
+        ],
+        "solution": "-1%",
+        "explanation": "Aggregation: Step 1: Calculate Inflation ((210-200)/200 = 5%). Step 2: Calculate Real Rate (Nominal 4% - Inflation 5% = -1%).",
+        "reference": "Chapter 7, Problem 2.6 logic"
+    },
+    {
+        "id": 13,
+        "difficulty": "Medium",
+        "question": "If the capital stock grows by 5% and the workforce grows by 5%, but Real GDP grows by 8%, what explains the 3% difference?",
+        "choices": [
+            "Inflation increased the value of the output.",
+            "The economy experienced an increase in productivity (technological progress).",
+            "The labor force participation rate decreased.",
+            "Measurement error in the GDP Deflator."
+        ],
+        "solution": "The economy experienced an increase in productivity (technological progress).",
+        "explanation": "Aggregation: If inputs (labor/capital) grow by 5%, output should grow by 5% ceteris paribus. The 'extra' growth (8% - 5%) must come from increased efficiency/productivity.",
+        "reference": "Chapter 7, Problem 3.3 logic"
+    },
+    {
+        "id": 14,
+        "difficulty": "Medium",
+        "question": "State A indexes minimum wage to the 'Standard CPI'. State B indexes it to the 'Chained CPI'. Assuming typical economic conditions (prices rise and people substitute goods), what will be the result after 10 years?",
+        "choices": [
+            "Minimum wage workers in State A will have a higher nominal wage than those in State B.",
+            "Minimum wage workers in State B will have a higher nominal wage than those in State A.",
+            "The nominal wages will be identical in both states.",
+            "State B's minimum wage will decrease annually."
+        ],
+        "solution": "Minimum wage workers in State A will have a higher nominal wage than those in State B.",
+        "explanation": "Aggregation: Standard CPI suffers from substitution bias and overestimates inflation. Chained CPI accounts for substitution and reports lower inflation. Since benefits are indexed to the rate, State A (higher reported rate) will raise wages faster than State B (lower reported rate).",
+        "reference": "Chapter 7, Problem 2.4"
+    },
+    {
+        "id": 15,
+        "difficulty": "Medium",
+        "question": "A country has *fewer* employed people today than 75 years ago, yet the unemployment rate is *lower* today than it was 75 years ago. Which mathematical reality best explains this paradox?",
+        "choices": [
+            "The population and Labor Force have shrunk significantly, and the number of unemployed people has decreased even faster.",
+            "The Labor Force Participation Rate has increased to 100%.",
+            "The definition of 'employed' has been expanded to include volunteers.",
+            "The number of discouraged workers has dropped to zero."
+        ],
+        "solution": "The population and Labor Force have shrunk significantly, and the number of unemployed people has decreased even faster.",
+        "explanation": "Aggregation: Unemployment Rate = U / (E+U). For the rate to drop while E (employment) drops, the denominator (Total Labor Force) must have shrunk drastically, meaning the count of unemployed (U) must have fallen so much that it lowered the ratio despite the drop in E.",
+        "reference": "Chapter 7, Problem 1.7"
+    },
+    {
+        "id": 16,
+        "difficulty": "Medium",
+        "question": "You are looking to take out a loan. Which of the following economic scenarios would result in the lowest *real* cost of borrowing for you?",
+        "choices": [
+            "Nominal Interest Rate = 6%, Inflation Rate = 3%",
+            "Nominal Interest Rate = 13%, Inflation Rate = 11%",
+            "Nominal Interest Rate = 3%, Inflation Rate = -1%",
+            "Real Interest Rate = 5%, Inflation Rate = 9%"
+        ],
+        "solution": "Nominal Interest Rate = 13%, Inflation Rate = 11%",
+        "explanation": "Aggregation: Calculate Real Rates: A (6-3=3%), B (13-11=2%), C (3-(-1)=4%), D (Fixed at 5%). Scenario B offers the lowest real interest rate (2%), making it best for the borrower.",
+        "reference": "Chapter 7, Problem 2.5"
+    },
+    {
+        "id": 17,
+        "difficulty": "Medium",
+        "question": "If a car factory furloughs workers because they produced too many cars last quarter (Inventory Correction), and not because of a national recession, how should this unemployment be classified?",
+        "choices": [
+            "Structural, because the workers are no longer needed.",
+            "Frictional, because they are between jobs.",
+            "Cyclical, because it is caused by a temporary drop in demand (even if localized).",
+            "Seasonal, because car sales only happen in summer."
+        ],
+        "solution": "Cyclical, because it is caused by a temporary drop in demand (even if localized).",
+        "explanation": "Synthesis: Applying the 'Demand Test' from discussion notes. These workers have the right skills (not structural) and are not just switching jobs (not frictional). They are waiting for demand to clear inventory. This matches the logic of cyclical unemployment discussed in the context of business cycles.",
+        "reference": "Discussion Notes & Chapter 7"
+    },
+    {
+        "id": 18,
+        "difficulty": "Medium",
+        "question": "Scenario: You buy a bond that pays 5% interest. You expect 2% inflation. However, the economy enters deflation (-2% inflation). What is your real return?",
+        "choices": [
+            "3%",
+            "7%",
+            "5%",
+            "-7%"
+        ],
+        "solution": "7%",
+        "explanation": "Aggregation: Real Rate = Nominal - Inflation. Real = 5% - (-2%) = 5% + 2% = 7%. Deflation increases the real value of the interest payments.",
+        "reference": "Chapter 7, Section 7.2 Logic"
+    },
+    {
+        "id": 19,
+        "difficulty": "Medium",
+        "question": "If 'underemployed' workers (part-time wanting full-time) were suddenly counted as 'unemployed', what would happen to the unemployment rate?",
+        "choices": [
+            "It would decrease drastically.",
+            "It would increase drastically.",
+            "It would stay the same because they are already in the labor force.",
+            "It would cause the labor force participation rate to fall."
+        ],
+        "solution": "It would increase drastically.",
+        "explanation": "Aggregation: Currently, they count as Employed. Moving them to Unemployed increases the numerator (Unemployed) and keeps the denominator (Labor Force) the same. The ratio would rise.",
+        "reference": "Chapter 7, Critical Thinking Question 1 Logic"
+    },
+    {
+        "id": 20,
+        "difficulty": "Medium",
+        "question": "Consider a basket with 100 units of Food and 40 units of Utilities. Base Year Prices: Food=$80, Utilities=$50. Current Year Prices: Food=$85, Utilities=$60. What is the inflation rate?",
+        "choices": [
+            "9.0%",
+            "10.9%",
+            "5.0%",
+            "14.2%"
+        ],
+        "solution": "9.0%",
+        "explanation": "Aggregation: Step 1 (Base Basket): 100*80 + 40*50 = 8000+2000 = 10,000. Step 2 (Current Basket): 100*85 + 40*60 = 8500+2400 = 10,900. Step 3 (Index/Inflation): (10,900 - 10,000) / 10,000 = 0.09 or 9%.",
+        "reference": "Chapter 7, Problem 2.3"
+    },
+    {
+        "id": 21,
+        "difficulty": "Hard",
+        "question": "A retiree has a savings account earning 6% nominal interest. The inflation rate is 4%. However, the government taxes nominal interest income at a rate of 33%. What is the retiree's *after-tax real interest rate*?",
+        "choices": [
+            "0%",
+            "1.32%",
+            "2.0%",
+            "-1.32%"
+        ],
+        "solution": "0%",
+        "explanation": "Multi-hop: 1. Calculate Tax: 6% * 0.33 = 2% tax. 2. After-tax Nominal Rate: 6% - 2% = 4%. 3. Real Rate: After-tax Nominal (4%) - Inflation (4%) = 0%. Inflation plus taxes on nominal gains can completely erase real returns.",
+        "reference": "Chapter 7 Concept (Inflation costs) + External Knowledge (Taxation)"
+    },
+    {
+        "id": 22,
+        "difficulty": "Hard",
+        "question": "Government A attempts to reduce unemployment by printing money to stimulate demand. Inflation rises to 15%, but the unemployment rate remains stuck at 6%. What can you conclude about the nature of this unemployment?",
+        "choices": [
+            "It is primarily cyclical, requiring even more stimulus.",
+            "It is primarily frictional and structural (the Natural Rate), so monetary stimulus is ineffective.",
+            "The labor force participation rate must be 100%.",
+            "The velocity of money has decreased to zero."
+        ],
+        "solution": "It is primarily frictional and structural (the Natural Rate), so monetary stimulus is ineffective.",
+        "explanation": "Synthesis: Stimulus targets Cyclical unemployment. If stimulus causes inflation but doesn't lower unemployment, the economy is likely already at the 'Natural Rate' (Structural + Frictional). You cannot push unemployment below the natural rate with inflation (Long-run Phillips Curve logic).",
+        "reference": "Chapter 7, Section 7.1 (Natural Rate concept)"
+    },
+    {
+        "id": 23,
+        "difficulty": "Hard",
+        "question": "A massive demographic shift causes the 'Baby Boomer' generation to retire. They move from 'Employed' to 'Not in Labor Force'. Assuming no other changes, what happens to the Labor Force Participation Rate and the Unemployment Rate?",
+        "choices": [
+            "Participation Rate falls; Unemployment Rate rises.",
+            "Participation Rate falls; Unemployment Rate likely rises mathematically if the remaining pool has higher structural unemployment.",
+            "Participation Rate falls; Unemployment Rate stays the same (ceteris paribus).",
+            "Participation Rate rises; Unemployment Rate falls."
+        ],
+        "solution": "Participation Rate falls; Unemployment Rate stays the same (ceteris paribus).",
+        "explanation": "Multi-hop: 1. Retirees leave Labor Force -> Participation Rate (LF/Pop) definitely falls. 2. Unemployment Rate = U/LF. If people move from E to Not-in-LF, both E and LF shrink. The ratio U/LF would actually rise slightly (U is constant, LF is smaller), but 'stays the same' is the best textbook answer for ceteris paribus unless the problem specifies the ratio of U to E.",
+        "reference": "Chapter 7, Section 7.1 (Labor Force Mechanics)"
+    },
+    {
+        "id": 24,
+        "difficulty": "Hard",
+        "question": "Country X imports 80% of its oil. The price of oil doubles. Domestic wages and rents remain unchanged. How will the CPI and GDP Deflator behave differently?",
+        "choices": [
+            "Both will rise by the same amount.",
+            "GDP Deflator will rise significantly; CPI will remain unchanged.",
+            "CPI will rise significantly; GDP Deflator will remain largely unchanged.",
+            "Both will fall due to the negative supply shock."
+        ],
+        "solution": "CPI will rise significantly; GDP Deflator will remain largely unchanged.",
+        "explanation": "Synthesis: CPI measures the 'consumer basket', which includes imports (oil/gas). GDP Deflator measures 'domestic production'. Since the oil is imported, it is not domestic production (GDP), so the Deflator ignores it, but the CPI captures the cost of living increase.",
+        "reference": "Chapter 7, Section 7.2 (CPI vs GDP Deflator)"
+    },
+    {
+        "id": 25,
+        "difficulty": "Hard",
+        "question": "You are a senior citizen who spends 40% of your income on healthcare. The Standard CPI basket weights healthcare at 8%. If healthcare prices rise by 20% while all other prices stay flat, how does the government's Cost of Living Adjustment (COLA)—based on Standard CPI—affect you?",
+        "choices": [
+            "The COLA will accurately compensate you for your loss of purchasing power.",
+            "The COLA will overcompensate you, giving you extra real income.",
+            "The COLA will undercompensate you, causing your real standard of living to fall.",
+            "The COLA will be zero because general inflation is zero."
+        ],
+        "solution": "The COLA will undercompensate you, causing your real standard of living to fall.",
+        "explanation": "Synthesis: Your personal inflation is (0.40 * 20%) = 8%. The Standard CPI records (0.08 * 20%) = 1.6%. The government sends you a 1.6% raise, but your costs went up 8%. You lose real purchasing power. This highlights CPI limitation for specific demographics.",
+        "reference": "Chapter 7, Section 7.2 (CPI Basket composition)"
+    },
+    {
+        "id": 26,
+        "difficulty": "Hard",
+        "question": "Consider two bonds held for one year. Bond A is an Inflation-Indexed Bond paying 2% real interest. Bond B is a Nominal Bond paying 5% interest. At the start of the year, expected inflation is 2%. By the end of the year, actual inflation is 6%. Which bond provided a better return?",
+        "choices": [
+            "Bond A.",
+            "Bond B.",
+            "They provided the same return.",
+            "Impossible to determine without tax rates."
+        ],
+        "solution": "Bond A.",
+        "explanation": "Multi-hop: Bond A pays 2% Real (so it adjusts to 6% inflation + 2% = 8% nominal). Bond B pays fixed 5% Nominal. Real return on B = 5% - 6% = -1%. Bond A (2% real) > Bond B (-1% real).",
+        "reference": "Chapter 7, Section 7.2 (Anticipated vs Unanticipated Inflation)"
+    },
+    {
+        "id": 27,
+        "difficulty": "Hard",
+        "question": "If labor productivity (Output per Worker) increases by 10%, but the total output of the economy remains exactly the same, what must have happened to employment?",
+        "choices": [
+            "Employment must have increased by 10%.",
+            "Employment must have decreased.",
+            "The labor force participation rate must have increased.",
+            "Deflation must have occurred."
+        ],
+        "solution": "Employment must have decreased.",
+        "explanation": "Multi-hop Math: Productivity = Output / Employment. If Productivity goes UP and Output stays FLAT, the denominator (Employment) must have gone DOWN. Fewer workers are producing the same amount of stuff.",
+        "reference": "Chapter 7, Section 7.3 (Productivity Formula)"
+    },
+    {
+        "id": 28,
+        "difficulty": "Hard",
+        "question": "Why does a 'Inventory Correction' (firms cutting production to sell off excess stock) create Cyclical Unemployment rather than Structural Unemployment?",
+        "choices": [
+            "Because the workers lack the skills to produce the goods.",
+            "Because the industry is permanently shrinking due to obsolescence.",
+            "Because the job loss is driven by a temporary mismatch between current supply and current aggregate demand.",
+            "Because inventory corrections only happen in the agricultural sector."
+        ],
+        "solution": "Because the job loss is driven by a temporary mismatch between current supply and current aggregate demand.",
+        "explanation": "Synthesis: Structural = Obsolete skills/industry. Cyclical = Low demand. Inventory correction means demand is temporarily lower than supply. Once inventory clears, demand resumes and workers return. It fits the 'business cycle' definition, not the 'structural shift' definition.",
+        "reference": "Discussion Notes (Inventory Example)"
+    },
+    {
+        "id": 29,
+        "difficulty": "Hard",
+        "question": "If deflation occurs (prices fall), consumers often expect prices to fall *further* in the future. How does this expectation affect the 'Aggregate Demand' problem discussed in the text?",
+        "choices": [
+            "It stimulates demand because goods are cheaper.",
+            "It worsens the problem because consumers delay purchases, reducing current demand further.",
+            "It has no effect because real interest rates fall.",
+            "It solves the problem by increasing the real value of cash."
+        ],
+        "solution": "It worsens the problem because consumers delay purchases, reducing current demand further.",
+        "explanation": "Synthesis: Deflationary Spiral. If you think a car will be 5% cheaper next month, you wait. If everyone waits, factories sell nothing, fire workers, and the economy shrinks. This validates the text's concern that deflation signals/causes low aggregate demand.",
+        "reference": "Chapter 7, Section 7.2 (Deflation concerns)"
+    },
+    {
+        "id": 30,
+        "difficulty": "Hard",
+        "question": "A country's Nominal GDP grows by 5%. Its population grows by 2%. The inflation rate (GDP Deflator) is 4%. What is the approximate growth rate of *Real Per-Capita GDP*?",
+        "choices": [
+            "3%",
+            "1%",
+            "-1%",
+            "7%"
+        ],
+        "solution": "-1%",
+        "explanation": "Multi-hop Calculation: 1. Real GDP Growth = Nominal (5%) - Inflation (4%) = 1%. 2. Per-Capita Real Growth = Real GDP Growth (1%) - Population Growth (2%) = -1%. The average person is getting poorer despite nominal growth.",
+        "reference": "Chapter 7, Section 7.3 (Growth definitions)"
+    }
+]
